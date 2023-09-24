@@ -20,8 +20,6 @@ layout:
 
 # 🔍 Extras
 
-## Will be updated soon!
-
 <details>
 
 <summary>Digital Lab Qs❓</summary>

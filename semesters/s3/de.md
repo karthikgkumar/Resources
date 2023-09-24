@@ -21,8 +21,6 @@ layout:
 
 # ⚙ DE
 
-## Will be updated soon!
-
 <details>
 
 <summary>Syllabus📚</summary>

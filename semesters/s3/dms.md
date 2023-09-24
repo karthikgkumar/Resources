@@ -36,3 +36,11 @@ layout:
 [Discrete and Combinatorial Mathematics](https://drive.google.com/file/d/1tCPd3uN0qpH1j5-lHEYIfVSvqbMcLYDr/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[DMS Notes](https://drive.google.com/drive/folders/1Dyki1IFgeRPg6cc3Mrei3Paho00eYSfL?usp=drive\_link)👈
+
+</details>
