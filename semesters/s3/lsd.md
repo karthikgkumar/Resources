@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[LSD Useful Links](https://docs.google.com/document/d/1ppQHq4E1FupnxqFtJ9AWaBotNNGDe2-Gpu7rm58L7eI/edit?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [LSD University Question Papers](https://drive.google.com/drive/folders/1jYt7yBxwvEH-5FoZoRV8At\_H0vLSr0RD?usp=drive\_link)👈

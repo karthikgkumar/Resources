@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[DE Useful Links](https://docs.google.com/document/d/1dvA5acTFuzdwFgR9DVudBfcjANpnUmzxTwPAkjxm5VY/edit?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [DE University Question Papers](https://drive.google.com/drive/folders/1SiEnu9cbYj4QMmMxgTlnXa\_O5AFpdxR\_?usp=drive\_link)👈

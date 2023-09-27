@@ -54,6 +54,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[OOP Useful Links](https://docs.google.com/document/d/1O-J1xoZ9d7D7DAGDXqF3aKw8gRuG-ML6PUvPNbyCOf0/edit?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Practice💻</summary>
 
 [Java Practice](https://drive.google.com/drive/folders/1KiB\_qFE-v0k9HS28x-V5qzjIKkeFj9fa?usp=drive\_link)👈

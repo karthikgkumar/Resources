@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[DS Useful Links](https://docs.google.com/document/d/14vpdl--yOPSDFchL8Uku-SesE2tdsEKYh\_3KjtdIofQ/edit?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Assignments📓</summary>
 
 [DS Assignments](https://drive.google.com/drive/folders/10WvzKC--9lYZFGeNXdah9\_zFto3oHjqb?usp=drive\_link)👈
