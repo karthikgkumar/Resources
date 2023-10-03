@@ -76,7 +76,9 @@ Git configuration works the same across Windows, macOS, and Linux.Else If you ha
 * Type your name and email address in the above string part.
 * Verify your configuration by displaying your configuration file:\
   Git config –list
-* ![](../../.gitbook/assets/9.png)
+*
+
+    <figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
 
 #### **To set repository-specific username/email configuration:** <a href="#_i9n74043k4vy" id="_i9n74043k4vy"></a>
 
@@ -127,3 +129,62 @@ GitHub opens a personalized page in your browser.
 ![](../../.gitbook/assets/14.png)
 
 Congratulations! You've successfully created your GitHub account.
+
+## SSH Keys
+
+An SSH key is an access credential for the SSH (secure shell) network protocol. This authenticated and encrypted secure network protocol is used for remote communication between machines on an [unsecured open network](https://whatismyipaddress.com/unsecured-network). SSH is used for remote file transfer, network management, and remote operating system access. The SSH acronym is also used to describe a set of tools used to interact with the SSH protocol.
+
+SSH uses a pair of keys to initiate a secure handshake between remote parties. The key pair contains a public and private key.&#x20;
+
+## How to create SSH Keys?
+
+Generate ssh file. Type the command in gitbash.
+
+```bash
+ssh-keygen -o
+```
+
+* It will generate a .ssh file in C/Users/\<your respective folder name>/.ssh.
+* When asked to enter a passphrase, just type the enter key.
+* When asked to enter the same passphrase again, type enter key.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Get into the ssh file&#x20;
+
+```bash
+cd .ssh
+```
+
+List the current files in it.
+
+```bash
+ls
+```
+
+and open id\_rsa.pub.&#x20;
+
+```bash
+cat id_rsa.pub
+```
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Snapshot of above commands</p></figcaption></figure>
+
+## Github ssh configuration
+
+Go to settings of your github account
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Go to `SSH and GPG Keys` section.
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Create a new SSH Key by clicking `New SSH Key`.
+
+Type the title you want and copy paste the SSH key that was shown in the git bash above.
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Click `Add SSH Key` button. You have successfully added SSH key.\
+You will be able to know the importance of SSH keys when we learn to push to a remote repository.
