@@ -46,6 +46,9 @@ If you want to contribute changes, start a new pull request and submit it for re
 [s8.md](semesters/s8.md)
 {% endcontent-ref %}
 
+## Contribution Guidelines
+If you would like to contribute to this site, please create a pull request with your changes. Describe the issue properly. We welcome contributions from the community!
+
 ## Contributors
 
 <figure><img src=".gitbook/assets/karthik_g_kumar-square crop.png" alt="" width="313"><figcaption><p><strong>Karthik G Kumar</strong><br><strong>💌 karthikgkumar.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/karthik-g-kumar"><strong>Linkedin</strong></a><br></p></figcaption></figure>
