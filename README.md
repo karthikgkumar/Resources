@@ -10,6 +10,10 @@ coverY: 0
 **About this Site: This is developed so as to help KTU Students find all resources in one place.**
 {% endhint %}
 
+{% hint style="warning" %}
+**Make sure to click the **<mark style="color:yellow;">**drop down arrow**</mark>** itself to access the content!**
+{% endhint %}
+
 <details>
 
 <summary>Contributing</summary>
@@ -47,6 +51,7 @@ If you want to contribute changes, start a new pull request and submit it for re
 {% endcontent-ref %}
 
 ## Contribution Guidelines
+
 If you would like to contribute to this site, please create a pull request with your changes. Describe the issue properly. We welcome contributions from the community!
 
 ## Contributors
@@ -54,4 +59,3 @@ If you would like to contribute to this site, please create a pull request with 
 <figure><img src=".gitbook/assets/karthik_g_kumar-square crop.png" alt="" width="313"><figcaption><p><strong>Karthik G Kumar</strong><br><strong>💌 karthikgkumar.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/karthik-g-kumar"><strong>Linkedin</strong></a><br></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/My photo.jpg" alt="" width="320"><figcaption><p><strong>Varsha Thomas</strong><br><strong>✉️ varshathomas364@gmail.com ▶</strong><a href="https://www.linkedin.com/in/varsha-thomas-6b6530255/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
-

@@ -26,15 +26,15 @@
   * [🗝 LSD](semesters/s3/lsd.md)
   * [🌱 SE](semesters/s3/se.md)
   * [🔍 Extras](semesters/s3/extras.md)
-* [S4](semesters/s4.md)
-* [S5](semesters/s5/README.md)
+* [📓 S4](semesters/s4.md)
+* [✏ S5](semesters/s5/README.md)
   * [Computer Network](semesters/s5/computer-network.md)
   * [Formal Languages and Automata Theory](semesters/s5/formal-languages-and-automata-theory.md)
   * [Microprocessors](semesters/s5/microprocessors.md)
   * [Systems Software](semesters/s5/systems-software.md)
-* [S6](semesters/s6.md)
-* [S7](semesters/s7.md)
-* [S8](semesters/s8.md)
+* [📖 S6](semesters/s6.md)
+* [📝 S7](semesters/s7.md)
+* [🎓 S8](semesters/s8.md)
 
 ## Resources
 
