@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule💊</summary>
+
+[DE Capsule](https://drive.google.com/drive/folders/1Y3TplJU44wSsjQ47GtGO3a\_8e1avOYVr?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Notes📒</summary>
 
 [DE Notes](https://drive.google.com/drive/folders/1r44MWp736PyHmU\_BXPdOVQtJvHVCZqxE?usp=drive\_link)👈
