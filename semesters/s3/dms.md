@@ -52,3 +52,11 @@ layout:
 [DMS Useful Links](https://docs.google.com/document/d/1KNmNpcBn8iZV1OV\_UYt7zZ6\_MUYb\_QGsVITfa0pMjY4/edit?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>University Papers📄</summary>
+
+[DMS University QPs](https://drive.google.com/drive/folders/1YzSD0Z9ogNkU9B9bMGGIxl7yI2OgOZCP?usp=drive\_link)👈
+
+</details>
