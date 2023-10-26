@@ -63,6 +63,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise📃</summary>
+
+[DE Series QPs](https://drive.google.com/drive/folders/1aNstOKWBNvE6yMsHqtzMNW0jE61tGzIi?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [DE University Question Papers](https://drive.google.com/drive/folders/1SiEnu9cbYj4QMmMxgTlnXa\_O5AFpdxR\_?usp=drive\_link)👈
