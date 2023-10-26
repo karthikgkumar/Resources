@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise📃</summary>
+
+[DMS Series QPs](https://drive.google.com/drive/folders/1\_1PP6A1MDVgBYRjhPlkOrJqyYgDaB9rZ?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University Papers📄</summary>
 
 [DMS University QPs](https://drive.google.com/drive/folders/1YzSD0Z9ogNkU9B9bMGGIxl7yI2OgOZCP?usp=drive\_link)👈
