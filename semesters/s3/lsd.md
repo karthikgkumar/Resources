@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise📃</summary>
+
+[LSD Series QPs](https://drive.google.com/drive/folders/1a-b\_BHzIGj0Of8GNIuJtpeaht5SaMd4N?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [LSD University Question Papers](https://drive.google.com/drive/folders/1jYt7yBxwvEH-5FoZoRV8At\_H0vLSr0RD?usp=drive\_link)👈

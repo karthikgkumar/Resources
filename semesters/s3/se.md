@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise 📃</summary>
+
+[SE Series QPs](https://drive.google.com/drive/folders/1a3wpMpKaHZC1pNHvp2LRJZqEhOXIh8iO?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [SE University Question Papers](https://drive.google.com/drive/folders/1vJA89UbBVGAwCKacBEeZ3PJDmgh-mURr?usp=drive\_link)👈

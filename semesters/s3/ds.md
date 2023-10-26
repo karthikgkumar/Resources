@@ -71,6 +71,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise 📃</summary>
+
+[DS Series QPs](https://drive.google.com/drive/folders/1\_bTKQaOs-8xeS4I2UvSZwWzVilOLsL8W?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [DS University Question Papers](https://drive.google.com/drive/folders/1TtxCyX2uVcEWj-fQQzP1och6VvcqWj2S?usp=drive\_link)👈

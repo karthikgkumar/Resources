@@ -80,6 +80,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise 📃</summary>
+
+[OOP Series QPs](https://drive.google.com/drive/folders/1\_nDD6CBzbjq6YzwslPBGg8gC5o45jPMd?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>University QPs 📄</summary>
 
 [OOP University Question Papers](https://drive.google.com/drive/folders/1eaXA3oFuwm-8cd97OjlGqtoPp7CQSF82?usp=drive\_link)👈
