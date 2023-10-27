@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials🧑‍🏫</summary>
+
+[SE Useful Links](https://docs.google.com/document/d/1tJ\_ZoNMCbufHOSrzVaSl3t-Z10Emc-DDfaxvU4m0m9s/edit?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise 📃</summary>
 
 [SE Series QPs](https://drive.google.com/drive/folders/1a3wpMpKaHZC1pNHvp2LRJZqEhOXIh8iO?usp=drive\_link)👈
