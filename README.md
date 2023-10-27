@@ -14,14 +14,6 @@ coverY: 0
 **Make sure to click the **<mark style="color:yellow;">**drop down arrow**</mark>** itself to access the content!**
 {% endhint %}
 
-<details>
-
-<summary>Contributing</summary>
-
-If you want to contribute changes, start a new pull request and submit it for review. Our team will review it soon after.
-
-</details>
-
 {% content-ref url="semesters/s1-and-s2/" %}
 [s1-and-s2](semesters/s1-and-s2/)
 {% endcontent-ref %}
