@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[LSD Short Notes](https://drive.google.com/drive/folders/1eygjFiKAq9eGpAfNQrhNveCqLGacq1rO?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise📃</summary>
 
 [LSD Series QPs](https://drive.google.com/drive/folders/1a-b\_BHzIGj0Of8GNIuJtpeaht5SaMd4N?usp=drive\_link)👈

@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[DMS Short Notes](https://drive.google.com/drive/folders/1dfw-Z6PSbSfWAs0GKp\_-sgjRjORyGmN5?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise📃</summary>
 
 [DMS Series QPs](https://drive.google.com/drive/folders/1\_1PP6A1MDVgBYRjhPlkOrJqyYgDaB9rZ?usp=drive\_link)👈
