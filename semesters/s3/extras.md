@@ -22,6 +22,14 @@ layout:
 
 <details>
 
+<summary>CS 2nd year drive</summary>
+
+[Click here](https://drive.google.com/drive/folders/13Hf9sOEl-tXwCkWzLUErG-Q4yp8S9dNQ?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Digital Lab Qs❓</summary>
 
 [Digital Lab Questions](https://drive.google.com/file/d/12JhGeKPMzWj41splkbOMyfcXnikP76nI/view?usp=drive\_link)👈
