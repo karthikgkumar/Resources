@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook📖</summary>
 
-[DS Textbook](https://drive.google.com/file/d/159fQehWc6tJ3pLi4GKU6HNciZTrxjVQm/view?usp=drive\_link)👈
+[DS Textbook](https://drive.google.com/drive/folders/1bAEsQEF2iWUw3EgMQtxJnU3CUuMadCfT?usp=drive\_link)👈
 
 </details>
 
