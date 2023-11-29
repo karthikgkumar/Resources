@@ -35,3 +35,11 @@ layout:
 [OOP Lab Record](https://drive.google.com/file/d/17n5sAKmvnPunl-ZW-5TB3Sn20AnS40gI/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Lab Questions 🤔</summary>
+
+Java Lab Qs (CSC - 28/11/2023)
+
+</details>
