@@ -40,6 +40,14 @@ layout:
 
 <summary>Lab Questions 🤔</summary>
 
-Java Lab Qs (CSC - 28/11/2023)
+[Java Lab Qs (CSC - 28/11/2023)](https://docs.google.com/document/d/1ApTcLkQroCZtlBR0fDbgihWqDssB2ye587VRZyXVG-Y/edit?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Lab Cycle 🔁</summary>
+
+[Java Lab Cycle 5](https://drive.google.com/file/d/1HhH2WS0gyYrST52S6JeYNSpWJRpR4mX3/view?usp=drive\_link)👈
 
 </details>
