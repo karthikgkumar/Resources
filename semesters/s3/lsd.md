@@ -41,7 +41,7 @@ layout:
 
 <summary>Notes📒</summary>
 
-[Module 5](https://drive.google.com/file/d/1Gm8vl98OyGcYYQGuR1daZZS10aUNY535/view?usp=drive\_link)👈
+[LSD Notes](https://drive.google.com/drive/folders/10\_1hkEaqMBwRvlM9mKYq\_h5gR8K0AE3f?usp=drive\_link)👈
 
 </details>
 
