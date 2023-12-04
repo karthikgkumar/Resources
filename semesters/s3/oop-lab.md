@@ -40,7 +40,7 @@ layout:
 
 <summary>Lab Questions 🤔</summary>
 
-[Java Lab Qs (CSC - 28/11/2023)](https://docs.google.com/document/d/1ApTcLkQroCZtlBR0fDbgihWqDssB2ye587VRZyXVG-Y/edit?usp=drive\_link) 👈
+[Java Lab Exam](https://drive.google.com/drive/folders/13iJlt-DSaToOqaRrw5CF58sakse\_ZORy?usp=sharing)👈
 
 </details>
 

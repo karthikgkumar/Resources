@@ -63,6 +63,14 @@ layout:
 
 <details>
 
+<summary>DS Lab Questions 🤔</summary>
+
+[DS Lab Exam](https://drive.google.com/drive/folders/1tEOEkXjiPgsZKImqLJKe0Zq7WKDmH2Q\_?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Programs💻</summary>
 
 [DS Programs](https://drive.google.com/drive/folders/1576MEcjvz6CCMerAaQ7hq7apBksb2Sg-?usp=drive\_link)👈
