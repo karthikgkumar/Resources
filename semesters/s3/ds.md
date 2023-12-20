@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[DS Capsule](https://drive.google.com/drive/folders/18Pvnm6fEErq4KWgjot7G7L8WUHwlL4UW?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Tutorials 🧑‍🏫</summary>
 
 [DS Useful Links](https://docs.google.com/document/d/14vpdl--yOPSDFchL8Uku-SesE2tdsEKYh\_3KjtdIofQ/edit?usp=drive\_link)👈
