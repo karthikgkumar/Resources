@@ -33,15 +33,7 @@ layout:
 
 <summary>Reference Materials📗</summary>
 
-[Module 1](https://drive.google.com/file/d/1OU-zbH-IOYo7-ZiGaZG8pQ8TFoxSWOAn/view?usp=drive\_link)👈
-
-[Module 2](https://drive.google.com/file/d/1-oeBPIMaLgvTtybS0wr-fKM-PvpyKUYS/view?usp=drive\_link)👈
-
-[Module 3](https://drive.google.com/file/d/1R6n-IuBffKbIOCXM\_OBsq0k3vVpzwgSO/view?usp=drive\_link)👈
-
-[Module 4](https://drive.google.com/file/d/16vdme4ZLmme2f2OHWrMCNMM0YK3D4Kc0/view?usp=drive\_link)👈
-
-[Module 5](https://drive.google.com/drive/folders/1A4-mpqCI6W0nOu4Q94BQpHemeQAQTUtD?usp=drive\_link)👈
+[SE Notes](https://drive.google.com/drive/folders/1ApRYh7DvAKslkNputcT2i83xkcxov-mQ?usp=drive\_link) 👈
 
 </details>
 
