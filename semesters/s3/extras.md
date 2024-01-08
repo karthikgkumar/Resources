@@ -35,3 +35,11 @@ layout:
 [Digital Lab Questions](https://drive.google.com/file/d/12JhGeKPMzWj41splkbOMyfcXnikP76nI/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Competitive Programmer's Handbook 🧑‍💻</summary>
+
+[Click Here](https://drive.google.com/file/d/1Ut\_HT2lrgsBUWJ7-tgN3WM26QBzqZSDg/view?usp=drive\_link)👈
+
+</details>
