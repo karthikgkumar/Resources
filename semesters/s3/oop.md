@@ -62,6 +62,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[Java Capsule](https://drive.google.com/drive/folders/1dbfb2d0bbrXJHNwvKnnCW4HOgniiEsPV?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Practice💻</summary>
 
 [Java Practice](https://drive.google.com/drive/folders/1KiB\_qFE-v0k9HS28x-V5qzjIKkeFj9fa?usp=drive\_link)👈
