@@ -1,5 +1,9 @@
 # 📚 S3
 
+{% hint style="info" %}
+Check out OneNote \[[Click here](https://onedrive.live.com/redir?resid=A5EFF3B93E4F081B%21163\&authkey=%21AuhV6GCkdOK5qhQ\&page=View\&wd=target%28New%20Section%201.one%7C202c39a8-9873-474c-b635-57bac5703cd4%2FSubjects%7C6e69f7a7-f2c0-6845-b2ab-ec680e227a46%2F%29\&wdorigin=NavigationUrl)] for more resources on all subjects! 🤩
+{% endhint %}
+
 <details>
 
 <summary>Syllabus📚</summary>
