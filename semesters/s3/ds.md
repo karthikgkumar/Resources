@@ -23,6 +23,25 @@ layout:
 
 <details>
 
+<summary>Good Reads! 📔</summary>
+
+[Books for understanding DSA concepts ](https://drive.google.com/drive/folders/1jIzuaY7Cj6Ty3REGUleRtNxE4H8rCFF1?usp=drive\_link)👈
+
+</details>
+
+{% hint style="info" %}
+Good Reads contain recommended books for understanding DSA concepts.&#x20;
+
+Preferred Order of Reading
+
+* Level 1: Computer Science Distilled - Wladston Ferreira Filho
+* Level 2: Grokking Algorithms - Aditya Y. Bhargava
+* Level 3: Introduction to Algorithms (4th edition) - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
+* Level 4: Elements of Programming Interviews - Adnan Aziz, Tsung-Hsien Lee, Amit Prakash \[Available in Java and Python]
+{% endhint %}
+
+<details>
+
 <summary>Syllabus📚</summary>
 
 [CST201](https://drive.google.com/file/d/1Ve4TEPmgVj3dVB5WfZsD5nzXTBrf7wLH/view?usp=drive\_link)👈
