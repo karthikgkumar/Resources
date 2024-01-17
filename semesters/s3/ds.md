@@ -30,7 +30,7 @@ layout:
 </details>
 
 {% hint style="info" %}
-Good Reads contain recommended books for understanding DSA concepts.&#x20;
+**Good Reads** contain recommended books for understanding DSA concepts.&#x20;
 
 Preferred Order of Reading
 

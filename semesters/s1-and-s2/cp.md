@@ -76,3 +76,15 @@ layout:
 [CP Extra Questions](https://drive.google.com/drive/folders/1WWl7wy8Hv80CiZcYm7v35V4XAjsa2awl?usp=drive\_link)👈
 
 </details>
+
+{% hint style="info" %}
+**Recommended Read** contains a book that would give you a head-start for learning DSA (Data Structures and Algorithms).
+{% endhint %}
+
+<details>
+
+<summary>Recommended Read 📔</summary>
+
+[Computer Science Distilled - Wladston Ferreira Filho ](https://drive.google.com/file/d/1jL87e5\_dMIC2qfNFQZTa0xGFjIbiFHAs/view?usp=sharing)👈
+
+</details>
