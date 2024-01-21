@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[SE Short Notes ](https://drive.google.com/drive/folders/1mnSpY6itWwH\_-u-RuR709HN6xpIhQK1e?usp=drive\_link)👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise 📃</summary>
 
 [SE Series QPs](https://drive.google.com/drive/folders/1a3wpMpKaHZC1pNHvp2LRJZqEhOXIh8iO?usp=drive\_link)👈
