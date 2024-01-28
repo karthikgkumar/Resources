@@ -10,6 +10,8 @@ Check out OneNote \[[Click here](https://onedrive.live.com/redir?resid=A5EFF3B93
 
 [S3 CS Syllabus](https://drive.google.com/file/d/1WJOSip8DOmCwiqHUErUvjhL5OjIa9BgT/view?usp=drive\_link)👈
 
+[S3 Subjects ](https://drive.google.com/file/d/1ZlnbvBJYGdWQtiMU08i-cFfxsXudVvZo/view?usp=drive\_link)👈
+
 </details>
 
 {% content-ref url="ds.md" %}

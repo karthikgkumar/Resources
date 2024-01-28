@@ -22,8 +22,8 @@ coverY: 0
 [s3](semesters/s3/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s4.md" %}
-[s4.md](semesters/s4.md)
+{% content-ref url="semesters/s4/" %}
+[s4](semesters/s4/)
 {% endcontent-ref %}
 
 {% content-ref url="semesters/s5/" %}
