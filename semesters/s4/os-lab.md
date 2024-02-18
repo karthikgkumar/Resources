@@ -28,3 +28,19 @@ layout:
 [CSL204 ](https://drive.google.com/file/d/1x0Sle28\_zrglkj2AfCVltxwrEMbynRU\_/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Lab Cycle 🔁</summary>
+
+[OS Lab Cycle ](https://drive.google.com/file/d/1vJaxMgXb7AVjqL7Jbn-1IZeYyMsOQhpP/view?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>Lab Manual 📔</summary>
+
+[OS Lab Manual](https://drive.google.com/file/d/1T\_iWZa32N0BZlPOjyRFJyTyIPIlLt4Rf/view?usp=drive\_link) 👈
+
+</details>
