@@ -46,3 +46,11 @@ layout:
 [Shift Registers](https://drive.google.com/file/d/1Sp-j4U-XCRIoc26isVrxvuxSV4GpesKb/view?usp=drive\_link) 👈
 
 </details>
+
+<details>
+
+<summary>Digital Lab Qs❓</summary>
+
+[Digital Lab Questions](https://drive.google.com/file/d/12JhGeKPMzWj41splkbOMyfcXnikP76nI/view?usp=drive\_link)👈
+
+</details>
