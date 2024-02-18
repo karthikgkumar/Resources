@@ -28,3 +28,19 @@ layout:
 [MCN202](https://drive.google.com/file/d/1dEzmJJn5Iur3ODIZf3davhiq-ULViWOU/view?usp=drive\_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes📒</summary>
+
+[COI Notes](https://drive.google.com/drive/folders/1APQNlqv-YpKxDapmq4cySnhnKf6ywsze?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>University QPs📄</summary>
+
+[COI Previous Year QPs ](https://drive.google.com/drive/folders/1BB\_8LH1jIsPZpcB5DAZJecVrCC2I5ayI?usp=drive\_link)👈
+
+</details>
