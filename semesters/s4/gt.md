@@ -28,3 +28,27 @@ layout:
 [MAT206 ](https://drive.google.com/file/d/11UpYS8pRcOFkRC3kDqFy\_xFvvyl4hwta/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook📖</summary>
+
+[GT Textbook ](https://drive.google.com/drive/folders/1GMveKH532n789UKBa\_9BJdW6H4lW977y?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>Notes📒</summary>
+
+[GT Notes](https://drive.google.com/drive/folders/1ByReucOeFNBSQxnkBcrWV5BfJJGYIFJx?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>University QPs📄</summary>
+
+[GT Previous Year QPs](https://drive.google.com/drive/folders/1tIfUTPfG8I5MU2dV4s1RrPHW08v7FRHY?usp=drive\_link) 👈
+
+</details>
