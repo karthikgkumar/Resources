@@ -28,3 +28,27 @@ layout:
 [CST206](https://drive.google.com/file/d/1pIrlZk7MkiiiJ9kmjnOer9T72Z11d4e8/view?usp=drive\_link) 👈
 
 </details>
+
+<details>
+
+<summary>Textbook📖</summary>
+
+[OS Textbook](https://drive.google.com/file/d/1f\_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Notes📒</summary>
+
+[OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>University QPs📄</summary>
+
+[OS Previous Year QPs](https://drive.google.com/drive/folders/1ux8CV4FuwO3Lz-NubrrTmvDyS7K1lPgf?usp=drive\_link) 👈
+
+</details>
