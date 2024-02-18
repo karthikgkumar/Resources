@@ -28,3 +28,27 @@ layout:
 [HUT200](https://drive.google.com/file/d/1oR3e-r\_BCWxnywj6iqXozqtQcJ\_KC9rr/view?usp=drive\_link) 👈
 
 </details>
+
+<details>
+
+<summary>Textbook📖</summary>
+
+[PE Textbook](https://drive.google.com/file/d/1tDXxh1V6ehCflweRERtM9BIUn2POxxl\_/view?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Notes📒</summary>
+
+[PE Notes](https://drive.google.com/drive/folders/1Nn4LdL-xaVmEuglImJo5zcgGarhLKnmt?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>University QPs📄</summary>
+
+[PE Previous Year QPs ](https://drive.google.com/drive/folders/1X3GsQ2cpSvIaV0XThbAbmyhXdD9obq5b?usp=drive\_link)👈
+
+</details>
