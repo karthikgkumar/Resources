@@ -7,11 +7,11 @@ coverY: 0
 # 👋 Welcome!
 
 {% hint style="info" %}
-**About this Site: This is developed so as to help KTU Students find all resources in one place.**
+**About this Site: This is developed to help KTU Students find all resources in one place.**
 {% endhint %}
 
 {% hint style="warning" %}
-**Make sure to click the **<mark style="color:yellow;">**drop down arrow**</mark>** itself to access the content!**
+**Make sure to click the **<mark style="color:yellow;">**drop-down arrow**</mark>** itself to access the content!**
 {% endhint %}
 
 {% content-ref url="semesters/s1-and-s2/" %}

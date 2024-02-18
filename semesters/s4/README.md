@@ -1,8 +1,8 @@
----
-description: Will be updated soon! ⚒️
----
-
 # 📓 S4
+
+{% hint style="warning" %}
+**Make sure to click the **<mark style="color:yellow;">**drop-down arrow**</mark>** itself to access the content!**
+{% endhint %}
 
 <details>
 
