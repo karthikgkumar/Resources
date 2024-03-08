@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise📃</summary>
+
+[PE Series QPs](https://drive.google.com/drive/folders/1Va2hI2lJVauYK16Eae-ewx\_eOpDSt7aN?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [PE Previous Year QPs ](https://drive.google.com/drive/folders/1X3GsQ2cpSvIaV0XThbAbmyhXdD9obq5b?usp=drive\_link)👈
