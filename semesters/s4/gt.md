@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[GT Useful Links](https://docs.google.com/document/d/1NwVZkztUS403OxeX1wkKqdNA\_OWjPwTeu2tJ\_TXBxnc/edit?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [GT Previous Year QPs](https://drive.google.com/drive/folders/1tIfUTPfG8I5MU2dV4s1RrPHW08v7FRHY?usp=drive\_link) 👈
