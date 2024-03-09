@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[COA Useful Links](https://docs.google.com/document/d/1CPsHqC1qGzwVEUQ9CNZMY-noVYWDHSNhXvzl9sj8v-8/edit?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [COA Previous Year QPs](https://drive.google.com/drive/folders/14o7JlduXcCUgPxnC\_6YuWC7eeuSSsANr?usp=drive\_link) 👈
