@@ -63,6 +63,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise 📃</summary>
+
+[GT Series QPs](https://drive.google.com/drive/folders/1\_IjpKF6ZmwLLJvYhN5VkMEVkwTcngz1n?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [GT Previous Year QPs](https://drive.google.com/drive/folders/1tIfUTPfG8I5MU2dV4s1RrPHW08v7FRHY?usp=drive\_link) 👈
