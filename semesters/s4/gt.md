@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[GT Short Notes](https://drive.google.com/drive/folders/1ZfSpxjUPZpHZR8RpGU-A8mGnJ\_AulCkZ?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Tutorials 🧑‍🏫</summary>
 
 [GT Useful Links](https://docs.google.com/document/d/1NwVZkztUS403OxeX1wkKqdNA\_OWjPwTeu2tJ\_TXBxnc/edit?usp=drive\_link) 👈
