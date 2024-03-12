@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[DBMS Useful Links ](https://docs.google.com/document/d/1gAoYfMF-nN6WvNUBLiutsj3c24IlHDz51Rcn1-GVJlI/edit?usp=sharing)👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [DBMS Previous Year QPs](https://drive.google.com/drive/folders/1Be140xQXAMkLqQNHj6DgXHkUe94\_898C?usp=drive\_link) 👈
