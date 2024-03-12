@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[COA Capsule](https://drive.google.com/drive/folders/1aIl-o2DnKNarssPWtcBs5q-qhjcm9ucS?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Tutorials 🧑‍🏫</summary>
 
 [COA Useful Links](https://docs.google.com/document/d/1CPsHqC1qGzwVEUQ9CNZMY-noVYWDHSNhXvzl9sj8v-8/edit?usp=drive\_link) 👈
