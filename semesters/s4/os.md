@@ -31,9 +31,9 @@ layout:
 
 <details>
 
-<summary>Textbook📖</summary>
+<summary>Notes 📒</summary>
 
-[OS Textbook](https://drive.google.com/file/d/1f\_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive\_link) 👈
+[OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
 
 </details>
 
