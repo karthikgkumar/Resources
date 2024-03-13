@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[CST206](https://drive.google.com/file/d/1pIrlZk7MkiiiJ9kmjnOer9T72Z11d4e8/view?usp=drive\_link) 👈
+[OS Syllabus](https://drive.google.com/file/d/1pIrlZk7MkiiiJ9kmjnOer9T72Z11d4e8/view?usp=drive\_link) 👈
 
 </details>
 
