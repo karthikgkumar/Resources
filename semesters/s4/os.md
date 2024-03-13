@@ -39,9 +39,9 @@ layout:
 
 <details>
 
-<summary>Notes📒</summary>
+<summary>Tutorials 🧑‍🏫</summary>
 
-[OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
+[OS Useful Links](https://docs.google.com/document/d/1M-NP2VCiDqgGR7D\_Qhn\_NV-rINDBvTyWkEAlA35KIMc/edit?usp=drive\_link) 👈
 
 </details>
 
