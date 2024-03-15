@@ -31,6 +31,14 @@ layout:
 
 <details>
 
+<summary>Textbook📖</summary>
+
+[OS Textbook](https://drive.google.com/file/d/1f_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
