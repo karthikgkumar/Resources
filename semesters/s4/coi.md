@@ -37,6 +37,12 @@ layout:
 
 </details>
 
+<details><summary>Series QPs College wise📃</summary>
+
+[COI Series QPs](https://drive.google.com/drive/folders/1jK6GwTTWTLoqCPyrgVS4X-Fre4MGyYSM?usp=drive_link) 👈
+
+</details>
+
 <details>
 
 <summary>University QPs📄</summary>
