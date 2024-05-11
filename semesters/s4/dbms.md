@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook📖</summary>
 
-[DBMS Textbook](https://drive.google.com/file/d/1d6mYNVTkvg\_gmX5jFJq4InKjVn0oF4za/view?usp=drive\_link) 👈
+[DBMS Textbook ](https://drive.google.com/drive/folders/1S3vwV881TpD6dnnWOr5UmK9sargBq5Ds?usp=drive\_link)👈
 
 </details>
 
