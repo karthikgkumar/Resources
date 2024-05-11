@@ -31,15 +31,25 @@ layout:
 
 <details>
 
+<summary>Textbook📖</summary>
+
+[COI Textbook](https://drive.google.com/drive/folders/1V-PxIuAtiSu9g2cX4QHrA-W7WDkuazoB?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes📒</summary>
 
 [COI Notes](https://drive.google.com/drive/folders/1APQNlqv-YpKxDapmq4cySnhnKf6ywsze?usp=drive\_link) 👈
 
 </details>
 
-<details><summary>Series QPs College wise📃</summary>
+<details>
 
-[COI Series QPs](https://drive.google.com/drive/folders/1jK6GwTTWTLoqCPyrgVS4X-Fre4MGyYSM?usp=drive_link) 👈
+<summary>Series QPs College wise📃</summary>
+
+[COI Series QPs](https://drive.google.com/drive/folders/1jK6GwTTWTLoqCPyrgVS4X-Fre4MGyYSM?usp=drive\_link) 👈
 
 </details>
 

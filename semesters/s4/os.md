@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook📖</summary>
 
-[OS Textbook](https://drive.google.com/file/d/1f_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive_link) 👈
+[OS Textbook](https://drive.google.com/file/d/1f\_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive\_link) 👈
 
 </details>
 
@@ -50,6 +50,14 @@ layout:
 <summary>Tutorials 🧑‍🏫</summary>
 
 [OS Useful Links](https://docs.google.com/document/d/1M-NP2VCiDqgGR7D\_Qhn\_NV-rINDBvTyWkEAlA35KIMc/edit?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Series QPs College wise 📃</summary>
+
+[OS Series QPs](https://drive.google.com/drive/folders/1cq54QGfSIwccXFcdrr3MbwCdRRvKC2XC?usp=drive\_link) 👈
 
 </details>
 

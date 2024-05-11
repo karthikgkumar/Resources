@@ -63,6 +63,14 @@ layout:
 
 <details>
 
+<summary>Series QPs College wise 📃</summary>
+
+[DBMS Series QPs](https://drive.google.com/drive/folders/1c\_35vlVsdz1IL-kxJi4bLjZVPOP1pK3s?usp=drive\_link) 👈&#x20;
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [DBMS Previous Year QPs](https://drive.google.com/drive/folders/1Be140xQXAMkLqQNHj6DgXHkUe94\_898C?usp=drive\_link) 👈

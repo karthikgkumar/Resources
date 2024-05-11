@@ -45,6 +45,16 @@ layout:
 
 [Shift Registers](https://drive.google.com/file/d/1Sp-j4U-XCRIoc26isVrxvuxSV4GpesKb/view?usp=drive\_link) 👈
 
+[Introduction to Verilog](https://drive.google.com/file/d/1XeadXpSMUJxfCAs\_dPRCuQh1pgB1GOUW/view?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+[DE Lab Useful Links](https://docs.google.com/document/d/1KFnRLAc8ZgM8yxExpmKmghQPwChYqJb6946qDMh2lMk/edit?usp=drive\_link) 👈
+
 </details>
 
 <details>
@@ -52,5 +62,7 @@ layout:
 <summary>Digital Lab Qs❓</summary>
 
 [Digital Lab Questions](https://drive.google.com/file/d/12JhGeKPMzWj41splkbOMyfcXnikP76nI/view?usp=drive\_link)👈
+
+[Sample Qs](https://docs.google.com/document/d/1PDd2dYFUNSHuJi-y-XTO0Fxw18TBip0YuefZsM-w2Cw/edit?usp=drive\_link) 👈
 
 </details>
