@@ -48,6 +48,6 @@ If you would like to contribute to this site, please create a pull request with 
 
 ## Contributors
 
-<figure><img src=".gitbook/assets/karthik_g_kumar-square crop.png" alt="" width="313"><figcaption><p><strong>Karthik G Kumar</strong><br><strong>💌 karthikgkumar.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/karthik-g-kumar"><strong>Linkedin</strong></a><br></p></figcaption></figure>
+<figure><img src=".gitbook/assets/karthik_pro.jpg" alt="" width="188"><figcaption><p><strong>Karthik G Kumar</strong><br><strong>💌 karthikgkumar.pro@gmail.com ▶</strong><a href="https://www.linkedin.com/in/karthik-g-kumar"><strong>Linkedin</strong></a><br></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/My photo.jpg" alt="" width="320"><figcaption><p><strong>Varsha Thomas</strong><br><strong>✉️ varshathomas364@gmail.com ▶</strong><a href="https://www.linkedin.com/in/varsha-thomas-6b6530255/"> <strong>Linkedin</strong></a><br></p></figcaption></figure>
