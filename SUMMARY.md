@@ -35,6 +35,7 @@
   * [🇮🇳 COI](semesters/s4/coi.md)
   * [🥼 DE Lab](semesters/s4/de-lab.md)
   * [💻 OS Lab](semesters/s4/os-lab.md)
+  * [🔐 Number Theory (Hons.)](semesters/s4/number-theory-hons..md)
 * [✏️ S5](semesters/s5/README.md)
   * [Computer Network](semesters/s5/computer-network.md)
   * [Formal Languages and Automata Theory](semesters/s5/formal-languages-and-automata-theory.md)
