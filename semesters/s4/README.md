@@ -43,3 +43,7 @@
 {% content-ref url="os-lab.md" %}
 [os-lab.md](os-lab.md)
 {% endcontent-ref %}
+
+{% content-ref url="number-theory-hons..md" %}
+[number-theory-hons..md](number-theory-hons..md)
+{% endcontent-ref %}
