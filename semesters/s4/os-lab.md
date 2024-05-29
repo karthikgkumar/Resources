@@ -44,3 +44,11 @@ layout:
 [OS Lab Manual](https://drive.google.com/file/d/1T\_iWZa32N0BZlPOjyRFJyTyIPIlLt4Rf/view?usp=drive\_link) 👈
 
 </details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+[OS Lab Useful Links](https://docs.google.com/document/d/1FrayiRHtHanFOUSALM440jdUsXfoHMHCQDOh7mogmEc/edit?usp=drivesdk) 👈
+
+</details>
