@@ -52,3 +52,11 @@ layout:
 [OS Lab Useful Links](https://docs.google.com/document/d/1FrayiRHtHanFOUSALM440jdUsXfoHMHCQDOh7mogmEc/edit?usp=drivesdk) 👈
 
 </details>
+
+<details>
+
+<summary>University QPs📄</summary>
+
+[OS Lab Useful Links](https://drive.google.com/drive/folders/1VYrUHsLwefr_FdBMjeQMSQrZDKYZIdwt?usp=drive_link) 👈
+
+</details>
