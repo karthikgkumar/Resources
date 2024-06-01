@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Notes 📒</summary>
+
+[OS Lab notes](https://drive.google.com/drive/folders/1rOfYBnqzWLjpC808whovWSShSt1shqSK?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University QPs📄</summary>
 
 [OS Lab PYQs](https://drive.google.com/drive/folders/1VYrUHsLwefr_FdBMjeQMSQrZDKYZIdwt?usp=drive_link) 👈
