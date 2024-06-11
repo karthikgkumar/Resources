@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[PE - Edutrikz by Hingston](https://youtube.com/playlist?list=PLIex9xdAUpohEU_zgHjeesMUb4b76xMrJ&si=qbzZR5mQFwTuKZAP) 👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise📃</summary>
 
 [PE Series QPs](https://drive.google.com/drive/folders/1Va2hI2lJVauYK16Eae-ewx\_eOpDSt7aN?usp=drive\_link) 👈
