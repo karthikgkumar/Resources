@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[PE Short Notes](https://drive.google.com/drive/folders/1wlK8h1l1uzMhSVG9MNu_ek60V4oMv-G0?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes📒</summary>
 
 [PE Notes](https://drive.google.com/drive/folders/1Nn4LdL-xaVmEuglImJo5zcgGarhLKnmt?usp=drive\_link) 👈
