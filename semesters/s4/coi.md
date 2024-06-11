@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Constitution of India - Edutrikz by Hingston](https://youtube.com/playlist?list=PLIex9xdAUpog7oxh5DRTH5MXHLFMxdqfK&si=Qrn7ZNHoS-JJH7cM) 👈
+
+</details>
+
+<details>
+
 <summary>Series QPs College wise📃</summary>
 
 [COI Series QPs](https://drive.google.com/drive/folders/1jK6GwTTWTLoqCPyrgVS4X-Fre4MGyYSM?usp=drive\_link) 👈
