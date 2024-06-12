@@ -49,9 +49,11 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[KTU S4 CONSTITUTION OF INDIA | KTU S4 CONSTITUTION OF INDIA TOPICS | CONSTITUTION OF INDIA KTU S4 - BIG Q](https://youtu.be/kmjR7MvKBys?si=MeA_8gLQweOrWKnp) 👈
-[Constitution of India - Edutrikz by Hingston](https://youtube.com/playlist?list=PLIex9xdAUpog7oxh5DRTH5MXHLFMxdqfK&si=Qrn7ZNHoS-JJH7cM) 👈
-[CONSTITUTION OF INDIA - deebuus](https://youtube.com/playlist?list=PLE57eeihTcea-xzaTJ14nsPwymxvC2hU8&si=jBu0_KZCCUPZSu4w) 👈
+[KTU S4 CONSTITUTION OF INDIA | KTU S4 CONSTITUTION OF INDIA TOPICS | CONSTITUTION OF INDIA KTU S4 - BIG Q](https://youtu.be/kmjR7MvKBys?si=MeA\_8gLQweOrWKnp) 👈
+
+[Constitution of India - Edutrikz by Hingston](https://youtube.com/playlist?list=PLIex9xdAUpog7oxh5DRTH5MXHLFMxdqfK\&si=Qrn7ZNHoS-JJH7cM) 👈
+
+[CONSTITUTION OF INDIA - deebuus](https://youtube.com/playlist?list=PLE57eeihTcea-xzaTJ14nsPwymxvC2hU8\&si=jBu0\_KZCCUPZSu4w) 👈
 
 </details>
 
