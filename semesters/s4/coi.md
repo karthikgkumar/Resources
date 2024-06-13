@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[COI Short Notes](https://drive.google.com/drive/folders/1xrOqzbAE4YljsNVGDrI4MANCH6LgsEsE?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes📒</summary>
 
 [COI Notes](https://drive.google.com/drive/folders/1APQNlqv-YpKxDapmq4cySnhnKf6ywsze?usp=drive\_link) 👈
