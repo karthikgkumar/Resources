@@ -49,8 +49,9 @@ layout:
 
 <summary>Notes📒</summary>
 
-[DBMS Notes](https://drive.google.com/drive/folders/1BGdCbNIRfuEFXUtaQYIDSEiwv3wp8\_iS?usp=drive\_link) 👈
-[DBMS - All Modules](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/DBMS%20in%205%20hours.pdf)👈
+[DBMS Notes](https://drive.google.com/drive/folders/1BGdCbNIRfuEFXUtaQYIDSEiwv3wp8\_iS?usp=drive\_link) 👈&#x20;
+
+[DBMS - All Modules](https://knowledgegatecoding.github.io/SingleShot\_UniversityExamSeries\_Notes/DBMS%20in%205%20hours.pdf)👈
 
 </details>
 
@@ -66,7 +67,7 @@ layout:
 
 <summary>Series QPs College wise 📃</summary>
 
-[DBMS Series QPs](https://drive.google.com/drive/folders/1c\_35vlVsdz1IL-kxJi4bLjZVPOP1pK3s?usp=drive\_link) 👈&#x20;
+[DBMS Series QPs](https://drive.google.com/drive/folders/1c\_35vlVsdz1IL-kxJi4bLjZVPOP1pK3s?usp=drive\_link) 👈
 
 </details>
 
