@@ -50,6 +50,7 @@ layout:
 <summary>Notes📒</summary>
 
 [DBMS Notes](https://drive.google.com/drive/folders/1BGdCbNIRfuEFXUtaQYIDSEiwv3wp8\_iS?usp=drive\_link) 👈
+[DBMS - All Modules](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/DBMS%20in%205%20hours.pdf)👈
 
 </details>
 
