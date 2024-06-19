@@ -43,6 +43,8 @@ layout:
 
 [OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
 
+[OS - All Modules](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/OS%20in%206%20hours.pdf)👈
+
 </details>
 
 <details>
