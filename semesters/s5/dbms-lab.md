@@ -8,7 +8,7 @@ description: CSL333 - Database Management Systems Lab
 
 <summary>Syllabus 📚</summary>
 
-
+[CSL333](https://drive.google.com/file/d/1KpT-sA1KYh-KBHoKcuOoZPp_gZBNLh6q/view?usp=drive_link)👈
 
 </details>
 
