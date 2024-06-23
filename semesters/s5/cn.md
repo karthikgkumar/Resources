@@ -28,3 +28,12 @@ layout:
 [CST303](https://drive.google.com/file/d/11lWie2DJxvQEaMIKv1Dk\_R\_5jBplVsNy/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[CN Textbook](https://drive.google.com/drive/folders/15t6GH3Ub9mcDCsn0YTOmtlLgGUi9QcpE?usp=drive_link)👈
+
+</details>
+
