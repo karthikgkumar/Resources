@@ -28,3 +28,11 @@ layout:
 [MCN301](https://drive.google.com/file/d/1zyt6QnDBJPU\_7WlP2bPwkAwkHk1tP6AS/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive_link)👈
+
+</details>
