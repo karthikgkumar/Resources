@@ -28,3 +28,11 @@ layout:
 [CST307](https://drive.google.com/file/d/1bkdsCDr-ntD8uTUbIpFx07ylAbf4ANZc/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[MM Textbook](https://drive.google.com/drive/folders/15z-8pHdugQVf1jnsxD4CdhrUdssZM8Ex?usp=drive_link)👈
+
+</details>
