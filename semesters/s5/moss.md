@@ -28,3 +28,11 @@ layout:
 [CST309](https://drive.google.com/file/d/1bYDnMN7cdEprhQhKd4nYvJbyVvHtFpJm/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[MOSS Textbook](https://drive.google.com/drive/folders/15z1O0eAgj3Cz5k3IWU0nq6ALARzLschI?usp=drive_link)👈
+
+</details>
