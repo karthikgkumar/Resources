@@ -28,3 +28,11 @@ layout:
 [CSL331](https://drive.google.com/file/d/1vDK0cKqT9\_71hoBnZURAZ0Exz2MAPiFA/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[SS&M Lab Textbook](https://drive.google.com/drive/folders/18juSZArI4yRVtiKnUki5r33ZC6YUhrQ7?usp=drive_link)👈
+
+</details>
