@@ -28,3 +28,11 @@ layout:
 [CST301](https://drive.google.com/file/d/1gSDQTP-JNMB67YcS6hU6j93P364kJqv3/view?usp=drive\_link)👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[FLAT Textbook](https://drive.google.com/drive/folders/15y6ddW_jNOCh7Z_-CNISH35wWIVxJQuU?usp=drive_link)👈
+
+</details>
