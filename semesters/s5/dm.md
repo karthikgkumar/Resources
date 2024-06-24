@@ -36,3 +36,11 @@ layout:
 [DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive_link)👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive_link)👈
+
+</details>
