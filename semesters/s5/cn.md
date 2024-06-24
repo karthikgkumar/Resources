@@ -37,3 +37,18 @@ layout:
 
 </details>
 
+<details>
+
+<summary>Capsule 💊</summary>
+
+[CN Short Notes](https://drive.google.com/drive/folders/14cBP3Suil5Wz2KW0Wp7gx2JeTNCmpusj?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[CN Notes](https://drive.google.com/drive/folders/1d3g9-VW9ITINwF_zhX_Wpj7IZrGwnjUu?usp=drive_link)👈
+
+</details>
