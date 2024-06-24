@@ -36,3 +36,19 @@ layout:
 [FLAT Textbook](https://drive.google.com/drive/folders/15y6ddW_jNOCh7Z_-CNISH35wWIVxJQuU?usp=drive_link)👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[FLAT Notes](https://drive.google.com/drive/folders/1dA-4VZBEdie1nM3Yrq5fo7V0GKGjU7Kf?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[FLAT PYQs](https://drive.google.com/drive/folders/13-m_G8KtebXgXaSBGC1hHh7Z_SLGzhLN?usp=drive_link)👈
+
+</details>
