@@ -36,3 +36,11 @@ layout:
 [MM Textbook](https://drive.google.com/drive/folders/15z-8pHdugQVf1jnsxD4CdhrUdssZM8Ex?usp=drive_link)👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[MM Notes](https://drive.google.com/drive/folders/1tb-OdvPoevix88zF8tfE4M1NRvMkiZqK?usp=drive_link)👈
+
+</details>
