@@ -36,3 +36,11 @@ layout:
 [SS Textbook](https://drive.google.com/drive/folders/163HjzzYOvBC2sYulzB6gLQyWqa5ekPFZ?usp=drive_link)👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT_IdcjLOvYdDLzy?usp=drive_link)👈
+
+</details>
