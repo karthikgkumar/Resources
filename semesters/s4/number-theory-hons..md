@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[Number Theory Short Notes](https://drive.google.com/drive/folders/19epeIg4FMv0_j6xkvA0dHUySnjMgYtcq?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Tutorials 🧑‍🏫</summary>
 
 [Number Theory Useful Links](https://docs.google.com/document/d/1lYDXz2cDPbSQzaYsaDwx8a7PDdlaS7Zt50MwwRwsFco/edit?usp=drive\_link) 👈
