@@ -65,4 +65,6 @@ layout:
 
 [Sample Qs](https://docs.google.com/document/d/1PDd2dYFUNSHuJi-y-XTO0Fxw18TBip0YuefZsM-w2Cw/edit?usp=drive\_link) 👈
 
+[Previous Year Questions](https://drive.google.com/drive/folders/17hXeF0xGrmSZcYFyNVrafAju7kiDlt\_4?usp=drive\_link) 👈
+
 </details>
