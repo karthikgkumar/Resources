@@ -33,6 +33,30 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[DBMS Lab Textbook](https://drive.google.com/drive/folders/1ox_y2AgKseRmGy22mfNSpUvyVZGUpzK0?usp=drive_link)👈
+[DBMS Lab Textbook](https://drive.google.com/drive/folders/1ox\_y2AgKseRmGy22mfNSpUvyVZGUpzK0?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>Lab Manual 📔</summary>
+
+[DBMS Record](https://drive.google.com/drive/folders/1IIGnb\_R365SW2KuiTPSkBKV3C-u6cmIb?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+1. #### [KTU DBMS LAB CSL 333 BTech S5 - Dr Binu V P](https://ktudbmslab.blogspot.com/2024/07/ktu-dbms-lab-csl-333-s5-dr-binu-v-p.html) 👈
+
+</details>
+
+<details>
+
+<summary>Viva Voce 🗣️</summary>
+
+[DBMS Viva Qs](https://drive.google.com/drive/folders/1fDKueluxb9taA9TmxyZeCuRFDSZmDJJ6?usp=drive\_link) 👈
 
 </details>
