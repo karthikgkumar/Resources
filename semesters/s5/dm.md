@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive_link)👈
+[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive\_link)👈
 
 </details>
 
@@ -41,6 +41,14 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive_link)👈
+[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[DM PYQs](https://drive.google.com/drive/folders/1bW9JGSphfq6zxhV334\_LTyuvp0R9oVUN?usp=drive\_link) 👈
 
 </details>
