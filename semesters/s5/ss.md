@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[SS Textbook](https://drive.google.com/drive/folders/163HjzzYOvBC2sYulzB6gLQyWqa5ekPFZ?usp=drive_link)👈
+[SS Textbook](https://drive.google.com/drive/folders/163HjzzYOvBC2sYulzB6gLQyWqa5ekPFZ?usp=drive\_link)👈
 
 </details>
 
@@ -41,6 +41,14 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT_IdcjLOvYdDLzy?usp=drive_link)👈
+[SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT\_IdcjLOvYdDLzy?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[SS PYQs](https://drive.google.com/drive/folders/1tF\_rODKZPuwtyuw4dbLPps4S3lUpK7k5?usp=drive\_link) 👈
 
 </details>
