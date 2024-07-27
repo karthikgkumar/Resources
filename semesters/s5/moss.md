@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[MOSS Textbook](https://drive.google.com/drive/folders/15z1O0eAgj3Cz5k3IWU0nq6ALARzLschI?usp=drive_link)👈
+[MOSS Textbook](https://drive.google.com/drive/folders/15z1O0eAgj3Cz5k3IWU0nq6ALARzLschI?usp=drive\_link)👈
 
 </details>
 
@@ -41,6 +41,14 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[MOSS Notes](https://drive.google.com/drive/folders/1rUulCHu3efw-ZZchVPswnt4ZWJjOrmc8?usp=drive_link)👈
+[MOSS Notes](https://drive.google.com/drive/folders/1rUulCHu3efw-ZZchVPswnt4ZWJjOrmc8?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[MOSS PYQs ](https://drive.google.com/drive/folders/1yYjbG73nuu5gZvHZ8tfTbhJPCtC4tgs8?usp=drive\_link)👈
 
 </details>
