@@ -33,6 +33,22 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[SS&M Lab Textbook](https://drive.google.com/drive/folders/18juSZArI4yRVtiKnUki5r33ZC6YUhrQ7?usp=drive_link)👈
+[SS\&M Lab Textbook](https://drive.google.com/drive/folders/18juSZArI4yRVtiKnUki5r33ZC6YUhrQ7?usp=drive\_link)👈
+
+</details>
+
+<details>
+
+<summary>Lab Manual 📔</summary>
+
+[SS\&M Record](https://drive.google.com/drive/folders/1FxbwnbgCy2TEX-OZcLOXPWkx4zZb2AB5?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
+<summary>Viva Voce 🗣️</summary>
+
+[SS\&M Viva Qs](https://drive.google.com/drive/folders/1PU0ney8ulhYkNljRh9YandphS74NuOXR?usp=drive\_link) 👈
 
 </details>
