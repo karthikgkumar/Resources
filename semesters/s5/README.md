@@ -1,10 +1,16 @@
 # ✏️ S5
 
-## Will be updated soon!⚒️
-
 {% hint style="warning" %}
 **Make sure to click the **<mark style="color:yellow;">**drop-down arrow**</mark>** itself to access the content!**
 {% endhint %}
+
+<details>
+
+<summary>S5 Syllabus 📚</summary>
+
+[Syllabus all subjects](https://drive.google.com/file/d/1\_LuKu1G809TPOPny4B5b9HzYbrKleczB/view?usp=drive\_link) 👈
+
+</details>
 
 {% content-ref url="flat.md" %}
 [flat.md](flat.md)
