@@ -47,6 +47,16 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Management of Software Systems (MSS) | S5 | CST309 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hSFkiGGqbeArmkMNAl4detq&feature=shared)👈
+
+[MSS(CST309) - ME Activities](https://youtube.com/playlist?list=PL2p0BrC7jysqNpImpNOaBMOeTLlIiU0-5&feature=shared)👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [MOSS PYQs ](https://drive.google.com/drive/folders/1yYjbG73nuu5gZvHZ8tfTbhJPCtC4tgs8?usp=drive\_link)👈
