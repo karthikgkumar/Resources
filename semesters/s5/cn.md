@@ -55,6 +55,17 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&feature=shared)👈
+
+[COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO&feature=shared)👈
+
+</details>
+
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [CN PYQs](https://drive.google.com/drive/folders/1tmgHiuaGGPxnKsU5nGgPeglcvk0hJV6a?usp=drive\_link) 👈
