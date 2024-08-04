@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[System Software (SS) | S5 | CST305 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hTDl_KBHhAoHvPYYGPrrlxg&feature=shared)👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [SS PYQs](https://drive.google.com/drive/folders/1tF\_rODKZPuwtyuw4dbLPps4S3lUpK7k5?usp=drive\_link) 👈
