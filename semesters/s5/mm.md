@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[MICROPROCESSORS AND MICROCONTROLLERS - S5 - EDULINE CSE KNOWLEDGE SHARING PLATFORM](https://youtube.com/playlist?list=PLI74-7rtCb9AnN3Cdj2Y-OtniR6KcS1IP&feature=shared)👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [MM PYQs](https://drive.google.com/drive/folders/1tSE8mCUcpyPF41iLKuWcBRdlICCGZVnc?usp=drive\_link) 👈
