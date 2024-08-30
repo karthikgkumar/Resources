@@ -39,6 +39,16 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+
+
+[FLAT Short Notes](https://drive.google.com/drive/folders/1i10WF-1ry53Q2wA-6Tox1Bq9dDZsHeKw?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [FLAT Notes](https://drive.google.com/drive/folders/1dA-4VZBEdie1nM3Yrq5fo7V0GKGjU7Kf?usp=drive\_link)👈
