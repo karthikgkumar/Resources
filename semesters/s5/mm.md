@@ -1,8 +1,7 @@
 ---
 description: CST307 - Microprocessors and Microcontrollers
-cover: >-
-  https://images.unsplash.com/photo-1580584126903-c17d41830450?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxtaWNyb3Byb2Nlc3NvcnxlbnwwfHx8fDE3MTkwNTI0ODJ8MA&ixlib=rb-4.0.3&q=85
-coverY: 0
+cover: ../../.gitbook/assets/8086-1.jpg
+coverY: 53
 layout:
   cover:
     visible: true
@@ -49,7 +48,7 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[MICROPROCESSORS AND MICROCONTROLLERS - S5 - EDULINE CSE KNOWLEDGE SHARING PLATFORM](https://youtube.com/playlist?list=PLI74-7rtCb9AnN3Cdj2Y-OtniR6KcS1IP&feature=shared)👈
+[MICROPROCESSORS AND MICROCONTROLLERS - S5 - EDULINE CSE KNOWLEDGE SHARING PLATFORM](https://youtube.com/playlist?list=PLI74-7rtCb9AnN3Cdj2Y-OtniR6KcS1IP\&feature=shared)👈
 
 </details>
 
