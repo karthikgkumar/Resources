@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[SS Short Notes](https://drive.google.com/drive/folders/1f\_b7k616WQoWVLewRgbYNuSVQBvK3Bld?usp=drive\_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT\_IdcjLOvYdDLzy?usp=drive\_link)👈
