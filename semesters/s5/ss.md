@@ -49,7 +49,9 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[System Software (SS) | S5 | CST305 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hTDl_KBHhAoHvPYYGPrrlxg&feature=shared)👈
+[System Software (SS) | S5 | CST305 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw\_hTDl\_KBHhAoHvPYYGPrrlxg\&feature=shared)👈
+
+[System Software - AjuComputerScience](https://youtube.com/playlist?list=PLfRQm-CAhIYdmrhqN\_CgZQ24NB9s4Wmp4\&feature=shared) 👈
 
 </details>
 
