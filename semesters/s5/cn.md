@@ -63,6 +63,13 @@ layout:
 
 </details>
 
+<details>
+
+<summary>Series Question Papers 📃</summary>
+
+[CN Series QPs](https://drive.google.com/drive/folders/1jzEGhXrJibwOSbtdTbTuc_iuDYFd8TIO)👈
+
+</details>
 
 <details>
 
