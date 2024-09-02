@@ -61,6 +61,8 @@ layout:
 
 [System Software - AjuComputerScience](https://youtube.com/playlist?list=PLfRQm-CAhIYdmrhqN\_CgZQ24NB9s4Wmp4\&feature=shared) 👈
 
+[System Software- 2019 Scheme - Renisha's CS Eduworld](https://youtube.com/playlist?list=PLIpw4h-qIUWxIXtO9Nea9DRMqcxt6DAN0\&feature=shared) 👈
+
 </details>
 
 <details>
