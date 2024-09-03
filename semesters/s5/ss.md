@@ -67,6 +67,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[SS Series QPs](https://drive.google.com/drive/folders/1l63ylcurbGElmQqv2CjR2k1DjER2Tpix)👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [SS PYQs](https://drive.google.com/drive/folders/1tF\_rODKZPuwtyuw4dbLPps4S3lUpK7k5?usp=drive\_link) 👈
