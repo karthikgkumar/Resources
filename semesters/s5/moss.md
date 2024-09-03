@@ -57,6 +57,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[MOSS Series QPs](https://drive.google.com/drive/folders/1lix7uffBFWYyYC90Nwy7U7JhsBsmX1gw)👈
+  
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [MOSS PYQs ](https://drive.google.com/drive/folders/1yYjbG73nuu5gZvHZ8tfTbhJPCtC4tgs8?usp=drive\_link)👈
