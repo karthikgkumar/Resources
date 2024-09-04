@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[DM Series QPs](https://drive.google.com/drive/folders/1n5dq0jzfuDAT4D9ff7DIQQ6Btff4OJHU)👈
+  
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [DM PYQs](https://drive.google.com/drive/folders/1bW9JGSphfq6zxhV334\_LTyuvp0R9oVUN?usp=drive\_link) 👈
