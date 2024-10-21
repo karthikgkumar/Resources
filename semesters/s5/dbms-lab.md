@@ -61,7 +61,7 @@ layout:
 
 </details>
 
-<derails>
+<details>
 
 <summary>Lab Exam Qs ❓</summary>
 
