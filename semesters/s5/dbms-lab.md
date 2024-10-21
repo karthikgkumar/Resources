@@ -60,3 +60,11 @@ layout:
 [DBMS Viva Qs](https://drive.google.com/drive/folders/1fDKueluxb9taA9TmxyZeCuRFDSZmDJJ6?usp=drive\_link) 👈
 
 </details>
+
+<derails>
+
+<summary>Lab Exam Qs ❓</summary>
+
+[DBMS Lab Exam Questions](https://drive.google.com/drive/folders/1J2lzgv5GPpu0wGBZ4b0mTTFAGC7nK9q_)👈
+
+</details>
