@@ -1,5 +1,5 @@
 ---
-description: CST 292 (Bucket 1)
+description: CST 292 (Hons. - Basket 1)
 cover: >-
   https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxjeWJlcnNlY3VyaXR5JTIwbnVtYmVyc3xlbnwwfHx8fDE3MTU4NTI0NDl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 🔐 Number Theory (Hons.)
+# 🔐 Number Theory
 
 <details>
 
@@ -41,7 +41,7 @@ layout:
 
 <summary>Capsule 💊</summary>
 
-[Number Theory Short Notes](https://drive.google.com/drive/folders/19epeIg4FMv0_j6xkvA0dHUySnjMgYtcq?usp=drive_link) 👈
+[Number Theory Short Notes](https://drive.google.com/drive/folders/19epeIg4FMv0\_j6xkvA0dHUySnjMgYtcq?usp=drive\_link) 👈
 
 </details>
 
