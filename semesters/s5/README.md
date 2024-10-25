@@ -43,3 +43,7 @@
 {% content-ref url="dbms-lab.md" %}
 [dbms-lab.md](dbms-lab.md)
 {% endcontent-ref %}
+
+{% content-ref url="cryptographic-algorithms.md" %}
+[cryptographic-algorithms.md](cryptographic-algorithms.md)
+{% endcontent-ref %}
