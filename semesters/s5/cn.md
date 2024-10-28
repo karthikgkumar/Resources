@@ -57,9 +57,11 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx&feature=shared)👈
+[Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx\&feature=shared)👈
 
-[COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO&feature=shared)👈
+[Computer Networks - KTU Syllabus](https://youtube.com/playlist?list=PLhtX56ZhBiZF2RM1OmtUOnR9vA-JGSDuH\&feature=shared) 👈
+
+[COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm\_wwLdQJc3jSwO\&feature=shared)👈
 
 </details>
 
@@ -67,7 +69,7 @@ layout:
 
 <summary>Series Question Papers 📃</summary>
 
-[CN Series QPs](https://drive.google.com/drive/folders/1jzEGhXrJibwOSbtdTbTuc_iuDYFd8TIO)👈
+[CN Series QPs](https://drive.google.com/drive/folders/1jzEGhXrJibwOSbtdTbTuc\_iuDYFd8TIO)👈
 
 </details>
 
