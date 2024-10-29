@@ -1,7 +1,6 @@
 ---
 description: CST305 - System Software
-cover: >-
-  https://images.unsplash.com/photo-1477039181047-efb4357d01bd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxzeXN0ZW0lMjBzb2Z0d2FyZXxlbnwwfHx8fDE3MTkwNTIzNDh8MA&ixlib=rb-4.0.3&q=85
+cover: ../../.gitbook/assets/AdobeStock_135663532-scaled.jpeg
 coverY: 0
 layout:
   cover:
