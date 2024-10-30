@@ -60,6 +60,10 @@ layout:
 
 [System Software - AjuComputerScience](https://youtube.com/playlist?list=PLfRQm-CAhIYdmrhqN\_CgZQ24NB9s4Wmp4\&feature=shared) 👈
 
+[KTU CS303 System Software (S5 CSE) - KTU Computer Science Tutor ](https://youtube.com/playlist?list=PLFRgmKDjFa\_p9pnvLP0trMkewKr1HC6rY\&feature=shared)👈
+
+[KTU CS303 SYSTEM SOFTWARE - Dept. of Computer Science & Engineering, CCE](https://youtube.com/playlist?list=PLZsB-Etza3jvNqeN4aWQsr3TnqKyENGVM\&feature=shared) 👈
+
 [System Software- 2019 Scheme - Renisha's CS Eduworld](https://youtube.com/playlist?list=PLIpw4h-qIUWxIXtO9Nea9DRMqcxt6DAN0\&feature=shared) 👈
 
 </details>
