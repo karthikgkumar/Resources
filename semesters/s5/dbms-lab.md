@@ -49,7 +49,9 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-1. #### [KTU DBMS LAB CSL 333 BTech S5 - Dr Binu V P](https://ktudbmslab.blogspot.com/2024/07/ktu-dbms-lab-csl-333-s5-dr-binu-v-p.html) 👈
+[**KTU DBMS LAB CSL 333 BTech S5 - Dr Binu V P**](https://ktudbmslab.blogspot.com/2024/07/ktu-dbms-lab-csl-333-s5-dr-binu-v-p.html) **👈**
+
+[MySQL tutorial for beginners 🐬 - Bro Code](https://youtube.com/playlist?list=PLZPZq0r\_RZOMskz6MdsMOgxzheIyjo-BZ\&feature=shared) 👈
 
 </details>
 
@@ -65,6 +67,6 @@ layout:
 
 <summary>Lab Exam Qs ❓</summary>
 
-[DBMS Lab Exam Questions](https://drive.google.com/drive/folders/1J2lzgv5GPpu0wGBZ4b0mTTFAGC7nK9q_)👈
+[DBMS Lab Exam Questions](https://drive.google.com/drive/folders/1J2lzgv5GPpu0wGBZ4b0mTTFAGC7nK9q\_)👈
 
 </details>
