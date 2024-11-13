@@ -49,6 +49,8 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
+[Two Pass Assembler](https://youtu.be/Fy4U8h3HfyE?feature=shared) 👈
+
 [Relocating Loader](https://youtu.be/bw5zFt-mLsA?feature=shared) 👈
 
 </details>
