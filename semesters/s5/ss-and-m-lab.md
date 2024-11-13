@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Relocating Loader](https://youtu.be/bw5zFt-mLsA?feature=shared) 👈
+
+</details>
+
+<details>
+
 <summary>Viva Voce 🗣️</summary>
 
 [SS\&M Viva Qs](https://drive.google.com/drive/folders/1PU0ney8ulhYkNljRh9YandphS74NuOXR?usp=drive\_link) 👈
