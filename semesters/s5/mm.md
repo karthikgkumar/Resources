@@ -66,6 +66,6 @@ layout:
 
 <summary>University Question Papers 📄</summary>
 
-[MM PYQs](https://drive.google.com/drive/folders/1tSE8mCUcpyPF41iLKuWcBRdlICCGZVnc?usp=drive\_link) 👈
+[MM PYQs](https://drive.google.com/drive/folders/1UWuJh749NWVb2HTiYMIrZuSxkRMu2jzI?usp=sharing) 👈
 
 </details>
