@@ -61,6 +61,8 @@ layout:
 
 [Theory of Computation & Automata Theory - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev\&feature=shared)👈
 
+[Closure Properties of Regular Languages + Proofs - Easy Theory](https://youtu.be/CuYZIsBSguw?feature=shared)👈
+
 [CS301 / CST301:Theory of Computation (ToC)/ Formal Languages and Automata Theory by Greeshma G S](https://youtube.com/playlist?list=PLXyRm0qdj3BC2Dwmu4CPzpXENoyY7xRSl\&feature=shared)👈
 
 </details>
