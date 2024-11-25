@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[CST303](https://drive.google.com/file/d/11lWie2DJxvQEaMIKv1Dk\_R\_5jBplVsNy/view?usp=drive\_link)👈
+[CST303](https://drive.google.com/file/d/11lWie2DJxvQEaMIKv1Dk_R_5jBplVsNy/view?usp=drive_link)👈
 
 </details>
 
@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[CN Textbook](https://drive.google.com/drive/folders/15t6GH3Ub9mcDCsn0YTOmtlLgGUi9QcpE?usp=drive\_link)👈
+[CN Textbook](https://drive.google.com/drive/folders/15t6GH3Ub9mcDCsn0YTOmtlLgGUi9QcpE?usp=drive_link)👈
 
 </details>
 
@@ -41,7 +41,7 @@ layout:
 
 <summary>Capsule 💊</summary>
 
-[CN Short Notes](https://drive.google.com/drive/folders/14cBP3Suil5Wz2KW0Wp7gx2JeTNCmpusj?usp=drive\_link)👈
+[CN Short Notes](https://drive.google.com/drive/folders/14cBP3Suil5Wz2KW0Wp7gx2JeTNCmpusj?usp=drive_link)👈
 
 </details>
 
@@ -49,7 +49,7 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[CN Notes](https://drive.google.com/drive/folders/1d3g9-VW9ITINwF\_zhX\_Wpj7IZrGwnjUu?usp=drive\_link)👈
+[CN Notes](https://drive.google.com/drive/folders/1d3g9-VW9ITINwF_zhX_Wpj7IZrGwnjUu?usp=drive_link)👈
 
 </details>
 
@@ -63,7 +63,7 @@ layout:
 
 [Distance Vector Routing (Solved problem) - Lets Try](https://youtu.be/g95XtDqeUmQ?feature=shared) 👈
 
-[COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm\_wwLdQJc3jSwO\&feature=shared)👈
+[COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO\&feature=shared)👈
 
 </details>
 
@@ -71,7 +71,7 @@ layout:
 
 <summary>Series Question Papers 📃</summary>
 
-[CN Series QPs](https://drive.google.com/drive/folders/1jzEGhXrJibwOSbtdTbTuc\_iuDYFd8TIO)👈
+[CN Series QPs](https://drive.google.com/drive/folders/1jzEGhXrJibwOSbtdTbTuc_iuDYFd8TIO)👈
 
 </details>
 
@@ -79,6 +79,6 @@ layout:
 
 <summary>University Question Papers 📄</summary>
 
-[CN PYQs](https://drive.google.com/drive/folders/1tmgHiuaGGPxnKsU5nGgPeglcvk0hJV6a?usp=drive\_link) 👈
+[CN PYQs](https://drive.google.com/drive/folders/1nLW2q0Lg_BqSP9ic0ijeht2yaAKUsjgd?usp=drive_link) 👈
 
 </details>
