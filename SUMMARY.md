@@ -86,3 +86,7 @@
     * [passwd command](resources/linux/commands/passwd-command.md)
     * [clear command](resources/linux/commands/clear-command.md)
     * [History command](resources/linux/commands/history-command.md)
+* [DSA](resources/dsa/README.md)
+  * [1.2 Concepts of Sliding Window Technique](resources/dsa/1.2-concepts-of-sliding-window-technique.md)
+  * [2.2 Characteristics of Sliding Window Problems](resources/dsa/2.2-characteristics-of-sliding-window-problems.md)
+  * [1.3 Introduction to Deque and Monotonic Stack](resources/dsa/1.3-introduction-to-deque-and-monotonic-stack.md)

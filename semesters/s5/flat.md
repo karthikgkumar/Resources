@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[CST301](https://drive.google.com/file/d/1gSDQTP-JNMB67YcS6hU6j93P364kJqv3/view?usp=drive\_link)👈
+[CST301](https://drive.google.com/file/d/1gSDQTP-JNMB67YcS6hU6j93P364kJqv3/view?usp=drive_link)👈
 
 </details>
 
@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[FLAT Textbook](https://drive.google.com/drive/folders/15y6ddW\_jNOCh7Z\_-CNISH35wWIVxJQuU?usp=drive\_link)👈
+[FLAT Textbook](https://drive.google.com/drive/folders/15y6ddW_jNOCh7Z_-CNISH35wWIVxJQuU?usp=drive_link)👈
 
 </details>
 
@@ -41,7 +41,7 @@ layout:
 
 <summary>Capsule 💊</summary>
 
-[FLAT Short Notes](https://drive.google.com/drive/folders/1i10WF-1ry53Q2wA-6Tox1Bq9dDZsHeKw?usp=drive\_link) 👈
+[FLAT Short Notes](https://drive.google.com/drive/folders/1i10WF-1ry53Q2wA-6Tox1Bq9dDZsHeKw?usp=drive_link) 👈
 
 </details>
 
@@ -49,7 +49,7 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[FLAT Notes](https://drive.google.com/drive/folders/1dA-4VZBEdie1nM3Yrq5fo7V0GKGjU7Kf?usp=drive\_link)👈
+[FLAT Notes](https://drive.google.com/drive/folders/1dA-4VZBEdie1nM3Yrq5fo7V0GKGjU7Kf?usp=drive_link)👈
 
 </details>
 
@@ -57,15 +57,15 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[Formal Languages and Automata Theory (FLAT) | S5 | CST301 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw\_hTCF4OnjtzUEiwid1iYxsGs\&feature=shared)👈
-
 [Theory of Computation & Automata Theory - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev\&feature=shared)👈
 
-[Theory of Computation - Anita R](https://youtube.com/playlist?list=PL6xbXi2C3sePDwyboAcu7l1UYuUT2SWYd&feature=shared)👈
+[Theory of Computation - Anita R](https://youtube.com/playlist?list=PL6xbXi2C3sePDwyboAcu7l1UYuUT2SWYd\&feature=shared)👈
+
+[TOC(Theory of Computation) - Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i\&feature=shared) 👈
+
+[1.3 TOC | AUTOMATA THEORY (Complete Playlist) - KnowledgeGATE by Sanchit Sir](https://youtube.com/playlist?list=PLmXKhU9FNesSdCsn6YQqu9DmXRMsYdZ2T\&feature=shared)👈
 
 [Closure Properties of Regular Languages + Proofs - Easy Theory](https://youtu.be/CuYZIsBSguw?feature=shared)👈
-
-[CS301 / CST301:Theory of Computation (ToC)/ Formal Languages and Automata Theory by Greeshma G S](https://youtube.com/playlist?list=PLXyRm0qdj3BC2Dwmu4CPzpXENoyY7xRSl\&feature=shared)👈
 
 </details>
 
@@ -81,6 +81,6 @@ layout:
 
 <summary>University Question Papers 📄</summary>
 
-[FLAT PYQs](https://drive.google.com/drive/folders/13-m\_G8KtebXgXaSBGC1hHh7Z\_SLGzhLN?usp=drive\_link)👈
+[FLAT PYQs](https://drive.google.com/drive/folders/13-m_G8KtebXgXaSBGC1hHh7Z_SLGzhLN?usp=drive_link)👈
 
 </details>
