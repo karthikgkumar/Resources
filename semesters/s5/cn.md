@@ -61,6 +61,8 @@ layout:
 
 [Computer Networks - KTU Syllabus](https://youtube.com/playlist?list=PLhtX56ZhBiZF2RM1OmtUOnR9vA-JGSDuH\&feature=shared) 👈
 
+[Manchester Encoding in 2 minutes - Devil's Workshop](https://youtu.be/XKtxxZ327UM?feature=shared) 👈
+
 [Distance Vector Routing (Solved problem) - Lets Try](https://youtu.be/g95XtDqeUmQ?feature=shared) 👈
 
 [COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO\&feature=shared)👈
