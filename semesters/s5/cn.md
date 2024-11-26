@@ -59,6 +59,8 @@ layout:
 
 [Computer Networks - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx\&feature=shared)👈
 
+[Computer Networks (Complete Playlist) - Gate Smashers](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_\&feature=shared) 👈
+
 [Computer Networks - KTU Syllabus](https://youtube.com/playlist?list=PLhtX56ZhBiZF2RM1OmtUOnR9vA-JGSDuH\&feature=shared) 👈
 
 [Manchester Encoding in 2 minutes - Devil's Workshop](https://youtu.be/XKtxxZ327UM?feature=shared) 👈
