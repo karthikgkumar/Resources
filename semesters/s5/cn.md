@@ -67,6 +67,8 @@ layout:
 
 [Distance Vector Routing (Solved problem) - Lets Try](https://youtu.be/g95XtDqeUmQ?feature=shared) 👈
 
+[Communication Networks Quality Of Service (QOS). - SK Wish](https://youtu.be/-cGMmSx9Ag0?feature=shared) 👈
+
 [COMPUTER NETWORKS - S5 - EDULINE CSE KNOWLEDGE SHARING](https://youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO\&feature=shared)👈
 
 </details>
