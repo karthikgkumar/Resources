@@ -24,7 +24,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[CST305](https://drive.google.com/file/d/163ZyfbzQ0\_vLbRQkeddJ2bWAwZlbLhxE/view?usp=drive\_link)👈
+[CST305](https://drive.google.com/file/d/163ZyfbzQ0_vLbRQkeddJ2bWAwZlbLhxE/view?usp=drive_link)👈
 
 </details>
 
@@ -32,7 +32,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[SS Textbook](https://drive.google.com/drive/folders/163HjzzYOvBC2sYulzB6gLQyWqa5ekPFZ?usp=drive\_link)👈
+[SS Textbook](https://drive.google.com/drive/folders/163HjzzYOvBC2sYulzB6gLQyWqa5ekPFZ?usp=drive_link)👈
 
 </details>
 
@@ -40,7 +40,7 @@ layout:
 
 <summary>Capsule 💊</summary>
 
-[SS Short Notes](https://drive.google.com/drive/folders/1f\_b7k616WQoWVLewRgbYNuSVQBvK3Bld?usp=drive\_link) 👈
+[SS Short Notes](https://drive.google.com/drive/folders/1f_b7k616WQoWVLewRgbYNuSVQBvK3Bld?usp=drive_link) 👈
 
 </details>
 
@@ -48,7 +48,7 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT\_IdcjLOvYdDLzy?usp=drive\_link)👈
+[SS Notes](https://drive.google.com/drive/folders/1Z-LfMKxTfQoTUKvKHT_IdcjLOvYdDLzy?usp=drive_link)👈
 
 </details>
 
@@ -56,11 +56,11 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[System Software (SS) | S5 | CST305 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw\_hTDl\_KBHhAoHvPYYGPrrlxg\&feature=shared)👈
+[System Software (SS) | S5 | CST305 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hTDl_KBHhAoHvPYYGPrrlxg\&feature=shared)👈
 
-[System Software - AjuComputerScience](https://youtube.com/playlist?list=PLfRQm-CAhIYdmrhqN\_CgZQ24NB9s4Wmp4\&feature=shared) 👈
+[System Software - AjuComputerScience](https://youtube.com/playlist?list=PLfRQm-CAhIYdmrhqN_CgZQ24NB9s4Wmp4\&feature=shared) 👈
 
-[KTU CS303 System Software (S5 CSE) - KTU Computer Science Tutor ](https://youtube.com/playlist?list=PLFRgmKDjFa\_p9pnvLP0trMkewKr1HC6rY\&feature=shared)👈
+[KTU CS303 System Software (S5 CSE) - KTU Computer Science Tutor ](https://youtube.com/playlist?list=PLFRgmKDjFa_p9pnvLP0trMkewKr1HC6rY\&feature=shared)👈
 
 [KTU CS303 SYSTEM SOFTWARE - Dept. of Computer Science & Engineering, CCE](https://youtube.com/playlist?list=PLZsB-Etza3jvNqeN4aWQsr3TnqKyENGVM\&feature=shared) 👈
 
@@ -80,6 +80,6 @@ layout:
 
 <summary>University Question Papers 📄</summary>
 
-[SS PYQs](https://drive.google.com/drive/folders/1tF\_rODKZPuwtyuw4dbLPps4S3lUpK7k5?usp=drive\_link) 👈
+[SS PYQs](https://drive.google.com/drive/folders/1l5MHLJHqfAlYDb-ymryVhszpJHd5TXUz?usp=drive_link) 👈
 
 </details>
