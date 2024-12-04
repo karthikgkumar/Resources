@@ -56,6 +56,8 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
+[Microprocessor 8086 - Engineering Funda](https://youtube.com/playlist?list=PLgwJf8NK-2e4oAeDid0hwuiol_RJdscrp\&feature=shared) 👈
+
 [KTU\_CST307 Microprocessors and Microcontrollers - RBK Classes](https://youtube.com/playlist?list=PLIbXsCgitKL-_-VjmxkDMylk6uY11ZTn7\&feature=shared) 👈
 
 [MICROPROCESSORS AND MICROCONTROLLERS - S5 - EDULINE CSE KNOWLEDGE SHARING PLATFORM](https://youtube.com/playlist?list=PLI74-7rtCb9AnN3Cdj2Y-OtniR6KcS1IP\&feature=shared)👈
