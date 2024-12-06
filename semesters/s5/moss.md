@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[CST309](https://drive.google.com/file/d/1bYDnMN7cdEprhQhKd4nYvJbyVvHtFpJm/view?usp=drive\_link)👈
+[CST309](https://drive.google.com/file/d/1bYDnMN7cdEprhQhKd4nYvJbyVvHtFpJm/view?usp=drive_link)👈
 
 </details>
 
@@ -33,7 +33,15 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[MOSS Textbook](https://drive.google.com/drive/folders/15z1O0eAgj3Cz5k3IWU0nq6ALARzLschI?usp=drive\_link)👈
+[MOSS Textbook](https://drive.google.com/drive/folders/15z1O0eAgj3Cz5k3IWU0nq6ALARzLschI?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Capsule 💊</summary>
+
+[MOSS Short Notes](https://drive.google.com/drive/folders/1vP5XiFA3ldnNcyTGzut4KJF4Dw28TrfC?usp=drive_link) 👈
 
 </details>
 
@@ -41,7 +49,7 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[MOSS Notes](https://drive.google.com/drive/folders/1rUulCHu3efw-ZZchVPswnt4ZWJjOrmc8?usp=drive\_link)👈
+[MOSS Notes](https://drive.google.com/drive/folders/1rUulCHu3efw-ZZchVPswnt4ZWJjOrmc8?usp=drive_link)👈
 
 </details>
 
@@ -49,9 +57,9 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[Management of Software Systems (MSS) | S5 | CST309 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hSFkiGGqbeArmkMNAl4detq&feature=shared)👈
+[Management of Software Systems (MSS) | S5 | CST309 | KTU | 2019 Scheme - Anna Thomas](https://youtube.com/playlist?list=PLv-1irVkw_hSFkiGGqbeArmkMNAl4detq\&feature=shared)👈
 
-[MSS(CST309) - ME Activities](https://youtube.com/playlist?list=PL2p0BrC7jysqNpImpNOaBMOeTLlIiU0-5&feature=shared)👈
+[MSS(CST309) - ME Activities](https://youtube.com/playlist?list=PL2p0BrC7jysqNpImpNOaBMOeTLlIiU0-5\&feature=shared)👈
 
 </details>
 
@@ -60,13 +68,13 @@ layout:
 <summary>Series Question Papers 📃</summary>
 
 [MOSS Series QPs](https://drive.google.com/drive/folders/1lix7uffBFWYyYC90Nwy7U7JhsBsmX1gw)👈
-  
+
 </details>
 
 <details>
 
 <summary>University Question Papers 📄</summary>
 
-[MOSS PYQs ](https://drive.google.com/drive/folders/1yYjbG73nuu5gZvHZ8tfTbhJPCtC4tgs8?usp=drive\_link)👈
+[MOSS PYQs ](https://drive.google.com/drive/folders/1yYjbG73nuu5gZvHZ8tfTbhJPCtC4tgs8?usp=drive_link)👈
 
 </details>
