@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[MCN301](https://drive.google.com/file/d/1zyt6QnDBJPU\_7WlP2bPwkAwkHk1tP6AS/view?usp=drive\_link)👈
+[MCN301](https://drive.google.com/file/d/1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS/view?usp=drive_link)👈
 
 </details>
 
@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive\_link)👈
+[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive_link)👈
 
 </details>
 
@@ -41,7 +41,15 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive\_link)👈
+[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Important Topics - Edutrickz by Hingston](https://www.youtube.com/live/i4OtFPArFjY?feature=shared\&t=656) 👈
 
 </details>
 
@@ -50,13 +58,13 @@ layout:
 <summary>Series Question Papers 📃</summary>
 
 [DM Series QPs](https://drive.google.com/drive/folders/1n5dq0jzfuDAT4D9ff7DIQQ6Btff4OJHU)👈
-  
+
 </details>
 
 <details>
 
 <summary>University Question Papers 📄</summary>
 
-[DM PYQs](https://drive.google.com/drive/folders/1bW9JGSphfq6zxhV334\_LTyuvp0R9oVUN?usp=drive\_link) 👈
+[DM PYQs](https://drive.google.com/drive/folders/1bW9JGSphfq6zxhV334_LTyuvp0R9oVUN?usp=drive_link) 👈
 
 </details>
