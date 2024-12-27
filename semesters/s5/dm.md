@@ -23,30 +23,6 @@ layout:
 
 <details>
 
-<summary>Syllabus 📚</summary>
-
-[MCN301](https://drive.google.com/file/d/1zyt6QnDBJPU_7WlP2bPwkAwkHk1tP6AS/view?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Textbook 📖</summary>
-
-[DM Textbook](https://drive.google.com/drive/folders/15vydPdXNYJ7c32zOD6N6J4U1mHCaSLP7?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Notes 📒</summary>
-
-[DM Notes](https://drive.google.com/drive/folders/1omwxKhi3WFj5yjJaawcFcqvv8U852UZB?usp=drive_link)👈
-
-</details>
-
-<details>
-
 <summary>Tutorials 🧑‍🏫</summary>
 
 [Important Topics - Edutrickz by Hingston](https://www.youtube.com/live/i4OtFPArFjY?feature=shared\&t=656) 👈

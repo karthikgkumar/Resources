@@ -11,7 +11,7 @@ coverY: 0
 {% endhint %}
 
 {% hint style="warning" %}
-**Make sure to click the **<mark style="color:yellow;">**drop-down arrow**</mark>** itself to access the content!**
+**Make sure to click the&#x20;**<mark style="color:yellow;">**drop-down arrow**</mark>**&#x20;itself to access the content!**
 {% endhint %}
 
 {% content-ref url="semesters/s1-and-s2/" %}
@@ -30,8 +30,8 @@ coverY: 0
 [s5](semesters/s5/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s6.md" %}
-[s6.md](semesters/s6.md)
+{% content-ref url="semesters/s6/" %}
+[s6](semesters/s6/)
 {% endcontent-ref %}
 
 {% content-ref url="semesters/s7.md" %}
