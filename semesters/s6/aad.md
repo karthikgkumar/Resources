@@ -1,6 +1,6 @@
 ---
-description: CST306 - Algorithm Analysis And Design
 icon: clipboard-list-check
+description: CST306 - Algorithm Analysis And Design
 cover: >-
   https://www.educative.io/v2api/editorpage/5993162860396544/image/6387039647825920
 coverY: 0
@@ -35,5 +35,21 @@ layout:
 <summary>Textbook 📖</summary>
 
 [AAD Textbook](https://drive.google.com/drive/folders/1CDroLDQUkEis9Tabkg1thKmBljDXBBUO?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[AAD Notes](https://drive.google.com/drive/folders/1QntBPDtrHFj-MQFRQgC80yuU1b1-5oUP?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[AAD PYQs](https://drive.google.com/drive/folders/1Lcwx_yRajJfBziYj5n0vtrPMvsJbS8Ai?usp=drive_link) 👈
 
 </details>
