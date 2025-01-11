@@ -58,9 +58,11 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[Cryptographic Algorithms CST 393 KTU CS Honour Notes Semester V -Dr Binu V P](https://cryptoalgoktuhonsem5.blogspot.com/2024/07/cryptographic-algorithms-cst-393-ktu.html)
+[Cryptographic Algorithms CST 393 KTU CS Honour Notes Semester V -Dr Binu V P](https://cryptoalgoktuhonsem5.blogspot.com/2024/07/cryptographic-algorithms-cst-393-ktu.html) 👈
 
 [CST393 Cryptographic Algorithms-CSE Honours Bucket 1 - Princy Ann Thomas](https://youtube.com/playlist?list=PL2YNNMqXo7duAvJbJFDjWxd3l0G-30uZh\&feature=shared) 👈
+
+[Cryptography & Network Security - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII\&feature=shared) 👈
 
 </details>
 
