@@ -48,6 +48,14 @@ layout:
 
 <details>
 
+<summary>Notes 📒</summary>
+
+[Cryptographic Algorithms Notes](https://drive.google.com/drive/folders/1Gjjt3s2rQS9rwx9gafv3u1KYa1S9mCvJ?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Tutorials 🧑‍🏫</summary>
 
 [Cryptographic Algorithms CST 393 KTU CS Honour Notes Semester V -Dr Binu V P](https://cryptoalgoktuhonsem5.blogspot.com/2024/07/cryptographic-algorithms-cst-393-ktu.html)
