@@ -64,6 +64,8 @@ layout:
 
 [Cryptography & Network Security - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII\&feature=shared) 👈
 
+[CRYPTOGRAPHY & NETWORK SECURITY - Trouble- Free](https://youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n\&feature=shared) 👈
+
 </details>
 
 <details>
