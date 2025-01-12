@@ -66,6 +66,8 @@ layout:
 
 [CRYPTOGRAPHY & NETWORK SECURITY - Trouble- Free](https://youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n\&feature=shared) 👈
 
+[MD5 Algorithm in Hindi - Rudra Singh](https://youtu.be/af3ORsj_k7w?feature=shared) 👈
+
 </details>
 
 <details>
