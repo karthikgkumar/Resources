@@ -40,6 +40,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Opportunity Cost](https://youtu.be/aZBg-xDLbKg?feature=shared) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [IEFT PYQs](https://drive.google.com/drive/folders/1dVUxD93ZWDCkdd1GHDPuO2--8XGdZ0lC?usp=drive_link) 👈
