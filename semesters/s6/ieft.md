@@ -48,6 +48,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[IEFT Series QPs](https://drive.google.com/drive/folders/1dq7DqVD2MzqPRf31f7T_wvJwKl9c6s4H?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [IEFT PYQs](https://drive.google.com/drive/folders/1dVUxD93ZWDCkdd1GHDPuO2--8XGdZ0lC?usp=drive_link) 👈
