@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[CD Series QPs](https://drive.google.com/drive/folders/1du3Ay42gdIxXxeTwQI6eXyLRi3xtnzLu?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [CD PYQs](https://drive.google.com/drive/folders/1AUos1x1JE3TXd9sMVZfOBdrZdGzqtupo?usp=drive_link) 👈
