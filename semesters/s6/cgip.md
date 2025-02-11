@@ -48,6 +48,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[COMPUTER GRAPHICS & IMAGE PROCESSING - Namitha Ramachandran](https://youtube.com/playlist?list=PLpzddu_MrQ5arBI1m6DIO8qy20KpfKkDb&feature=shared) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [CGIP PYQs](https://drive.google.com/drive/folders/11ygC9lMRD6z2lGOy4fc5TS0xSk0KChwM?usp=drive_link) 👈
