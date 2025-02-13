@@ -36,3 +36,19 @@ layout:
 [PIP Textbook](https://drive.google.com/drive/folders/1V16ykcPA_sht3jP_5-7Y8W-ZKxFR-UoY?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[PIP Notes](https://drive.google.com/drive/folders/1iAZrUvYEK8B05yrr8dCuSrRuEPPV8DMd?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[PIP PYQs](https://drive.google.com/drive/folders/1mlqZw_UDPEHERzutKfpYpdYwQJUy9u8f?usp=drive_link) 👈
+
+</details>
