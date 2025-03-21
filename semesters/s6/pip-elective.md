@@ -47,6 +47,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Programming in Python - Dr. Binu V P](https://proginpython.blogspot.com/2022/04/programming-in-python-cst-362-ktu-cs.html) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [PIP PYQs](https://drive.google.com/drive/folders/1mlqZw_UDPEHERzutKfpYpdYwQJUy9u8f?usp=drive_link) 👈
