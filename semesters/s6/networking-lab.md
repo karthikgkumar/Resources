@@ -29,3 +29,19 @@ layout:
 [CSL332](https://drive.google.com/file/d/1JjM4jENbZUWLN979c_ceLm8yfYQXT1sP/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Lab Manual 📔</summary>
+
+[CN Lab Manual](https://drive.google.com/drive/folders/1FTE6R5pwmYr44DJNGkq8dQBdchaGBGzN?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Viva Voce 🗣️</summary>
+
+[CN Lab Viva Qs](https://drive.google.com/drive/folders/1Il5c5QyrOTKPt6LvjZP3LejOiYrjewVS?usp=drive_link) 👈
+
+</details>
