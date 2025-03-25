@@ -48,6 +48,14 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[CSL 332 Networking Lab KTU 2019 Scheme - Dr Binu V P](https://networklabktu.blogspot.com/2025/01/csl-332-networking-lab-ktu-2019-scheme.html) 👈
+
+</details>
+
+<details>
+
 <summary>Viva Voce 🗣️</summary>
 
 [CN Lab Viva Qs](https://drive.google.com/drive/folders/1Il5c5QyrOTKPt6LvjZP3LejOiYrjewVS?usp=drive_link) 👈
