@@ -45,3 +45,11 @@ layout:
 [CN Lab Viva Qs](https://drive.google.com/drive/folders/1Il5c5QyrOTKPt6LvjZP3LejOiYrjewVS?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Sample Questions ❓</summary>
+
+[CN Internal Lab Exam Qs](https://docs.google.com/document/d/1Qss2VA9GKj87fTKoKUu-aqIdCF_-If5O2LXmY02fNfE/edit?usp=drive_link) 👈
+
+</details>
