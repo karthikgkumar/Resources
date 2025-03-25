@@ -40,6 +40,14 @@ layout:
 
 <details>
 
+<summary>Programs and Algorithms 🧑‍💻</summary>
+
+[CN Lab Useful Resources](https://drive.google.com/file/d/1pI9ZfQR0CcrZEmYBkyJYvADg96vmcK7t/view?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Viva Voce 🗣️</summary>
 
 [CN Lab Viva Qs](https://drive.google.com/drive/folders/1Il5c5QyrOTKPt6LvjZP3LejOiYrjewVS?usp=drive_link) 👈
