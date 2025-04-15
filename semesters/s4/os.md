@@ -25,7 +25,7 @@ layout:
 
 <summary>Syllabus 📚</summary>
 
-[OS Syllabus](https://drive.google.com/file/d/1pIrlZk7MkiiiJ9kmjnOer9T72Z11d4e8/view?usp=drive\_link) 👈
+[OS Syllabus](https://drive.google.com/file/d/1pIrlZk7MkiiiJ9kmjnOer9T72Z11d4e8/view?usp=drive_link) 👈
 
 </details>
 
@@ -33,7 +33,7 @@ layout:
 
 <summary>Textbook📖</summary>
 
-[OS Textbook](https://drive.google.com/file/d/1f\_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive\_link) 👈
+[OS Textbook](https://drive.google.com/file/d/1f_nRYzyWa1FzuC9jNOkWSjoFZQJVa3Ne/view?usp=drive_link) 👈
 
 </details>
 
@@ -41,9 +41,7 @@ layout:
 
 <summary>Notes 📒</summary>
 
-[OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT\_9bCAtZwF?usp=drive\_link) 👈
-
-[OS - All Modules](https://knowledgegatecoding.github.io/SingleShot_UniversityExamSeries_Notes/OS%20in%206%20hours.pdf)👈
+[OS Notes](https://drive.google.com/drive/folders/1wSyiFPZiJW3heu6VVb3cwVT_9bCAtZwF?usp=drive_link) 👈
 
 </details>
 
@@ -51,7 +49,7 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[OS Useful Links](https://docs.google.com/document/d/1M-NP2VCiDqgGR7D\_Qhn\_NV-rINDBvTyWkEAlA35KIMc/edit?usp=drive\_link) 👈
+[OS Useful Links](https://docs.google.com/document/d/1M-NP2VCiDqgGR7D_Qhn_NV-rINDBvTyWkEAlA35KIMc/edit?usp=drive_link) 👈
 
 </details>
 
@@ -59,7 +57,7 @@ layout:
 
 <summary>Series QPs College wise 📃</summary>
 
-[OS Series QPs](https://drive.google.com/drive/folders/1cq54QGfSIwccXFcdrr3MbwCdRRvKC2XC?usp=drive\_link) 👈
+[OS Series QPs](https://drive.google.com/drive/folders/1cq54QGfSIwccXFcdrr3MbwCdRRvKC2XC?usp=drive_link) 👈
 
 </details>
 
@@ -67,6 +65,6 @@ layout:
 
 <summary>University QPs📄</summary>
 
-[OS Previous Year QPs](https://drive.google.com/drive/folders/1ux8CV4FuwO3Lz-NubrrTmvDyS7K1lPgf?usp=drive\_link) 👈
+[OS Previous Year QPs](https://drive.google.com/drive/folders/1ux8CV4FuwO3Lz-NubrrTmvDyS7K1lPgf?usp=drive_link) 👈
 
 </details>
