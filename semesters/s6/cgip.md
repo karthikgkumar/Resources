@@ -1,6 +1,6 @@
 ---
-icon: file-png
 description: CST304 - Computer Graphics And Image Processing
+icon: file-png
 cover: >-
   https://images.unsplash.com/photo-1694731727308-57e5fd476f93?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb21wdXRlciUyMGdyYXBoaWNzfGVufDB8fHx8MTczNTE4NzMyNnww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -50,9 +50,17 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[COMPUTER GRAPHICS & IMAGE PROCESSING - Namitha Ramachandran](https://youtube.com/playlist?list=PLpzddu_MrQ5arBI1m6DIO8qy20KpfKkDb&feature=shared) 👈
+[COMPUTER GRAPHICS & IMAGE PROCESSING - Namitha Ramachandran](https://youtube.com/playlist?list=PLpzddu_MrQ5arBI1m6DIO8qy20KpfKkDb\&feature=shared) 👈
 
-[computer graphics tutorial for beginners - QuickCS](https://youtube.com/playlist?list=PL58YSwlpvFr0RTFpMri7d-haW_q1kivx6&feature=shared)👈
+[computer graphics tutorial for beginners - QuickCS](https://youtube.com/playlist?list=PL58YSwlpvFr0RTFpMri7d-haW_q1kivx6\&feature=shared)👈
+
+</details>
+
+<details>
+
+<summary>Series Question Papers 📃</summary>
+
+[CGIP Series QPs](https://drive.google.com/drive/folders/1bgQJY9qKXjwMbVzS8tv5IV7qApkIJpBd?usp=drive_link) 👈
 
 </details>
 

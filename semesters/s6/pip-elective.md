@@ -55,6 +55,14 @@ layout:
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[PIP Series QPs](https://drive.google.com/drive/folders/1b8a8oNCLfrKrDdK-LsSsWB82xltfrLF_?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [PIP PYQs](https://drive.google.com/drive/folders/1mlqZw_UDPEHERzutKfpYpdYwQJUy9u8f?usp=drive_link) 👈
