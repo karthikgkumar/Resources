@@ -1,6 +1,6 @@
 ---
-icon: laptop-binary
 description: CST302 - Compiler Design
+icon: laptop-binary
 cover: ../../.gitbook/assets/Difference-Between-Compiler-And-Interpreter-In-Java.jpg
 coverY: 0
 layout:
@@ -42,6 +42,14 @@ layout:
 <summary>Notes 📒</summary>
 
 [CD Notes](https://drive.google.com/drive/folders/1zJWaQQy1mcNvWS6TQLITahQ3Bfi0UYQp?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Geeks for Geeks - Compiler Design Tutorial](https://www.geeksforgeeks.org/compiler-design-tutorials/) 👈
 
 </details>
 
