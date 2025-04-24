@@ -39,6 +39,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[CD Short Notes](https://drive.google.com/drive/folders/1fjG9KuJwHACmle3V9buaHOzf1VdGOXIJ?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [CD Notes](https://drive.google.com/drive/folders/1zJWaQQy1mcNvWS6TQLITahQ3Bfi0UYQp?usp=drive_link) 👈
