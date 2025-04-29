@@ -50,6 +50,8 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
+[Computer Graphics Tutorial - tutorialspoint](https://www.tutorialspoint.com/computer_graphics/index.htm) 👈
+
 [COMPUTER GRAPHICS & IMAGE PROCESSING - Namitha Ramachandran](https://youtube.com/playlist?list=PLpzddu_MrQ5arBI1m6DIO8qy20KpfKkDb\&feature=shared) 👈
 
 [computer graphics tutorial for beginners - QuickCS](https://youtube.com/playlist?list=PL58YSwlpvFr0RTFpMri7d-haW_q1kivx6\&feature=shared)👈
