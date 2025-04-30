@@ -58,11 +58,13 @@ layout:
 
 <summary>Tutorials 🧑‍🏫</summary>
 
+[Computer Graphics by Vinay Mishra](https://youtube.com/playlist?list=PL4yL5rqgtVtq1NSGGz8ugZHV9PVk8xvQI\&feature=shared) 👈
+
+[computer graphics tutorial for beginners - QuickCS](https://youtube.com/playlist?list=PL58YSwlpvFr0RTFpMri7d-haW_q1kivx6\&feature=shared)👈
+
 [Computer Graphics Tutorial - tutorialspoint](https://www.tutorialspoint.com/computer_graphics/index.htm) 👈
 
 [COMPUTER GRAPHICS & IMAGE PROCESSING - Namitha Ramachandran](https://youtube.com/playlist?list=PLpzddu_MrQ5arBI1m6DIO8qy20KpfKkDb\&feature=shared) 👈
-
-[computer graphics tutorial for beginners - QuickCS](https://youtube.com/playlist?list=PL58YSwlpvFr0RTFpMri7d-haW_q1kivx6\&feature=shared)👈
 
 </details>
 
