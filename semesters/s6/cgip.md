@@ -40,6 +40,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[CGIP Short Notes](https://drive.google.com/drive/folders/1ldEL3UJN6BpY2cvtZoZpti-KyN0UkO-i?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [CGIP Notes](https://drive.google.com/drive/folders/1ZnHLBuLK8XYUhrKU3gTwUVvGFFCTMmyk?usp=drive_link) 👈
