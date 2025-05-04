@@ -48,6 +48,16 @@ layout:
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Algorithms - Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O\&feature=shared) 👈
+
+[Design and Analysis of Algorithm Tutorial - Geeks for Geeks](https://www.geeksforgeeks.org/design-and-analysis-of-algorithm-tutorial/) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [AAD Series QPs](https://drive.google.com/drive/folders/1baZt2WESxi9slUEfvlAukBsqrbHDrCy7?usp=drive_link) 👈
