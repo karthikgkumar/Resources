@@ -40,6 +40,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[AAD Short Notes](https://drive.google.com/drive/folders/1qfmOUWEd3EmqLAy6D5UzEUHfqYW6exTP?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [AAD Notes](https://drive.google.com/drive/folders/1QntBPDtrHFj-MQFRQgC80yuU1b1-5oUP?usp=drive_link) 👈
