@@ -62,6 +62,8 @@ layout:
 
 [Substitution method - Anjali Sharma](https://youtu.be/d1AuJv8ljm8?feature=shared) 👈
 
+[Recursion Tree method - GATE Applied Course](https://youtu.be/JPAA1FbM7jk?feature=shared\&t=143) 👈
+
 [Design and Analysis of Algorithm Tutorial - Geeks for Geeks](https://www.geeksforgeeks.org/design-and-analysis-of-algorithm-tutorial/) 👈
 
 </details>
