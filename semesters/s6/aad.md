@@ -60,6 +60,8 @@ layout:
 
 [Algorithms - Abdul Bari](https://youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O\&feature=shared) 👈
 
+[Substitution method - Anjali Sharma](https://youtu.be/d1AuJv8ljm8?feature=shared) 👈
+
 [Design and Analysis of Algorithm Tutorial - Geeks for Geeks](https://www.geeksforgeeks.org/design-and-analysis-of-algorithm-tutorial/) 👈
 
 </details>
