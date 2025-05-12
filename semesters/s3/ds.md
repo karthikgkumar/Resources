@@ -25,7 +25,7 @@ layout:
 
 <summary>Good Reads! 📔</summary>
 
-[Books for understanding DSA concepts ](https://drive.google.com/drive/folders/1jIzuaY7Cj6Ty3REGUleRtNxE4H8rCFF1?usp=drive\_link)👈
+[Books for understanding DSA concepts ](https://drive.google.com/drive/folders/1jIzuaY7Cj6Ty3REGUleRtNxE4H8rCFF1?usp=drive_link)👈
 
 </details>
 
@@ -42,9 +42,17 @@ Preferred Order of Reading
 
 <details>
 
+<summary>Useful Links 🔗</summary>
+
+[https://algo.monster/flowchart](https://algo.monster/flowchart)&#x20;
+
+</details>
+
+<details>
+
 <summary>Syllabus📚</summary>
 
-[CST201](https://drive.google.com/file/d/1Ve4TEPmgVj3dVB5WfZsD5nzXTBrf7wLH/view?usp=drive\_link)👈
+[CST201](https://drive.google.com/file/d/1Ve4TEPmgVj3dVB5WfZsD5nzXTBrf7wLH/view?usp=drive_link)👈
 
 </details>
 
@@ -52,7 +60,7 @@ Preferred Order of Reading
 
 <summary>Textbook📖</summary>
 
-[DS Textbook](https://drive.google.com/drive/folders/1bAEsQEF2iWUw3EgMQtxJnU3CUuMadCfT?usp=drive\_link)👈
+[DS Textbook](https://drive.google.com/drive/folders/1bAEsQEF2iWUw3EgMQtxJnU3CUuMadCfT?usp=drive_link)👈
 
 </details>
 
@@ -60,7 +68,7 @@ Preferred Order of Reading
 
 <summary>Notes📒</summary>
 
-[DS Notes](https://drive.google.com/drive/folders/1uiVvJmM4IrR7F0OOyZhbRu5OGv8U4LYA?usp=drive\_link)👈
+[DS Notes](https://drive.google.com/drive/folders/1uiVvJmM4IrR7F0OOyZhbRu5OGv8U4LYA?usp=drive_link)👈
 
 </details>
 
@@ -68,7 +76,7 @@ Preferred Order of Reading
 
 <summary>Capsule 💊</summary>
 
-[DS Capsule](https://drive.google.com/drive/folders/18Pvnm6fEErq4KWgjot7G7L8WUHwlL4UW?usp=drive\_link) 👈
+[DS Capsule](https://drive.google.com/drive/folders/18Pvnm6fEErq4KWgjot7G7L8WUHwlL4UW?usp=drive_link) 👈
 
 </details>
 
@@ -76,7 +84,7 @@ Preferred Order of Reading
 
 <summary>Tutorials 🧑‍🏫</summary>
 
-[DS Useful Links](https://docs.google.com/document/d/14vpdl--yOPSDFchL8Uku-SesE2tdsEKYh\_3KjtdIofQ/edit?usp=drive\_link)👈
+[DS Useful Links](https://docs.google.com/document/d/14vpdl--yOPSDFchL8Uku-SesE2tdsEKYh_3KjtdIofQ/edit?usp=drive_link)👈
 
 </details>
 
@@ -84,7 +92,7 @@ Preferred Order of Reading
 
 <summary>Assignments📓</summary>
 
-[DS Assignments](https://drive.google.com/drive/folders/10WvzKC--9lYZFGeNXdah9\_zFto3oHjqb?usp=drive\_link)👈
+[DS Assignments](https://drive.google.com/drive/folders/10WvzKC--9lYZFGeNXdah9_zFto3oHjqb?usp=drive_link)👈
 
 </details>
 
@@ -92,7 +100,7 @@ Preferred Order of Reading
 
 <summary>DS Lab Questions 🤔</summary>
 
-[DS Lab Exam](https://drive.google.com/drive/folders/1tEOEkXjiPgsZKImqLJKe0Zq7WKDmH2Q\_?usp=drive\_link)👈
+[DS Lab Exam](https://drive.google.com/drive/folders/1tEOEkXjiPgsZKImqLJKe0Zq7WKDmH2Q_?usp=drive_link)👈
 
 </details>
 
@@ -100,7 +108,7 @@ Preferred Order of Reading
 
 <summary>Programs💻</summary>
 
-[DS Programs](https://drive.google.com/drive/folders/1576MEcjvz6CCMerAaQ7hq7apBksb2Sg-?usp=drive\_link)👈
+[DS Programs](https://drive.google.com/drive/folders/1576MEcjvz6CCMerAaQ7hq7apBksb2Sg-?usp=drive_link)👈
 
 </details>
 
@@ -108,7 +116,7 @@ Preferred Order of Reading
 
 <summary>Series QPs College wise 📃</summary>
 
-[DS Series QPs](https://drive.google.com/drive/folders/1\_bTKQaOs-8xeS4I2UvSZwWzVilOLsL8W?usp=drive\_link)👈
+[DS Series QPs](https://drive.google.com/drive/folders/1_bTKQaOs-8xeS4I2UvSZwWzVilOLsL8W?usp=drive_link)👈
 
 </details>
 
@@ -116,6 +124,6 @@ Preferred Order of Reading
 
 <summary>University QPs📄</summary>
 
-[DS University Question Papers](https://drive.google.com/drive/folders/1TtxCyX2uVcEWj-fQQzP1och6VvcqWj2S?usp=drive\_link)👈
+[DS University Question Papers](https://drive.google.com/drive/folders/1TtxCyX2uVcEWj-fQQzP1och6VvcqWj2S?usp=drive_link)👈
 
 </details>
