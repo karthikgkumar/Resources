@@ -52,6 +52,8 @@ layout:
 
 [Opportunity Cost](https://youtu.be/aZBg-xDLbKg?feature=shared) 👈
 
+[IEFT - Edutrikz by Hingston](https://youtube.com/playlist?list=PLIex9xdAUpoiXq2s5atGKtBN0CkBX_nE5\&feature=shared) 👈
+
 </details>
 
 <details>
