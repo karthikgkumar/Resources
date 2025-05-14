@@ -40,6 +40,14 @@ layout:
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[IEFT Short Notes](https://drive.google.com/drive/folders/1yORsZONIwymcGa-zjIn9uDpxp9eE0sr6?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [IEFT Notes](https://drive.google.com/drive/folders/1JL375z7yu-8YaeRs8tgBtYgwaI5Ox8zN?usp=drive_link) 👈
