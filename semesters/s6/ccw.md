@@ -1,6 +1,6 @@
 ---
-icon: books
 description: CST308 - Comprehensive Course Work
+icon: books
 cover: >-
   https://images.unsplash.com/photo-1505063366573-38928ae5567e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxib29rc3xlbnwwfHx8fDE3MzUyNzgxMzJ8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -34,7 +34,21 @@ layout:
 
 <summary>Resources 🗃️</summary>
 
-[CCW Resources](https://drive.google.com/drive/folders/1gQznZpgW2L1-mGl4RAQjhe_aQGgVlSDK?usp=drive_link) 👈
+[CCW Resources](https://drive.google.com/drive/folders/18GkEyBybWkhikrgPDzQZkj1N95t50tqR?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Tutorials 🧑‍🏫</summary>
+
+DSA
+
+* [Stack](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726165552/Stack-Data-Structure.png) 👈
+* [Queue](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230726165642/Queue-Data-structure1.png) 👈
+
+- [Prefix and Postfix evaluation](https://youtu.be/o6vj5l_W2h8?feature=shared) 👈
+- [BFS & DFS](https://youtu.be/pcKY4hjDrxk?feature=shared) 👈
 
 </details>
 
