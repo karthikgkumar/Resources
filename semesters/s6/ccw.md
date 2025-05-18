@@ -49,6 +49,9 @@ DSA
 
 - [Prefix and Postfix evaluation](https://youtu.be/o6vj5l_W2h8?feature=shared) 👈
 - [BFS & DFS](https://youtu.be/pcKY4hjDrxk?feature=shared) 👈
+- [Hashing](https://youtube.com/playlist?list=PLxM5rzx4f4fwOPORqEZZhaaY5OG0WMZfF\&feature=shared) 👈
+- [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/) 👈
+- [AVL Tree](https://www.geeksforgeeks.org/introduction-to-avl-tree/) 👈
 
 </details>
 
