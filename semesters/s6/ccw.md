@@ -52,6 +52,7 @@ DSA
 - [Hashing](https://youtube.com/playlist?list=PLxM5rzx4f4fwOPORqEZZhaaY5OG0WMZfF\&feature=shared) 👈
 - [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/) 👈
 - [AVL Tree](https://www.geeksforgeeks.org/introduction-to-avl-tree/) 👈
+- [Sorting Algorithms](https://youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl\&feature=shared) 👈
 
 DBMS
 
