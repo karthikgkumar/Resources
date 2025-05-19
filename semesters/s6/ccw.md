@@ -67,6 +67,7 @@ FLAT
 OS
 
 * [CPU Scheduling Algorithms](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/) 👈
+* [Banker's Algorithm](https://youtu.be/2V2FfP_olaA?feature=shared) 👈
 * [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) 👈
 * [Semaphores](https://media.geeksforgeeks.org/wp-content/uploads/20250106165446247852/semaphores.webp) 👈
 * [Paging](https://youtu.be/6c-mOFZwP_8?feature=shared) 👈
