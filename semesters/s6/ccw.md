@@ -63,6 +63,11 @@ FLAT
 
 * [Least number of states in DFA](https://gateoverflow.in/70753/the-least-number-of-states-in-dfa) 👈
 
+OS
+
+* [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) 👈
+* [Semaphores](https://media.geeksforgeeks.org/wp-content/uploads/20250106165446247852/semaphores.webp) 👈
+
 </details>
 
 <details>
