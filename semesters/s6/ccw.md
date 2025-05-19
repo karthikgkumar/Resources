@@ -53,6 +53,16 @@ DSA
 - [Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/) 👈
 - [AVL Tree](https://www.geeksforgeeks.org/introduction-to-avl-tree/) 👈
 
+DBMS
+
+* [Conflict Serializability](https://youtu.be/zv0ba0Iok1Y?feature=shared) 👈
+* [Closure of Functional Dependency](https://youtu.be/bSdvM_0hzgc?feature=shared) 👈
+* [1 NF, 2 NF, 3 NF, BCNF](https://youtu.be/EGEwkad_llA?feature=shared) 👈
+
+FLAT
+
+* [Least number of states in DFA](https://gateoverflow.in/70753/the-least-number-of-states-in-dfa) 👈
+
 </details>
 
 <details>
