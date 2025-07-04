@@ -2,20 +2,6 @@
 description: CST305 - System Software
 cover: ../../.gitbook/assets/AdobeStock_135663532-scaled.jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 💽 SS

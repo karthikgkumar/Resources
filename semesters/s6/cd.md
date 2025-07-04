@@ -3,20 +3,6 @@ description: CST302 - Compiler Design
 icon: laptop-binary
 cover: ../../.gitbook/assets/Difference-Between-Compiler-And-Interpreter-In-Java.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # CD

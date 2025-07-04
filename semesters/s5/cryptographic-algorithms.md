@@ -1,23 +1,9 @@
 ---
-icon: binary-lock
 description: CST 393 (Hons. - Basket 1)
+icon: binary-lock
 cover: >-
   https://media.wired.com/photos/593320d858b0d64bb35d4655/master/w_2560%2Cc_limit/163727876.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Cryptographic Algorithms

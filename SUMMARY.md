@@ -55,7 +55,15 @@
   * [CCW](semesters/s6/ccw.md)
   * [Networking Lab](semesters/s6/networking-lab.md)
   * [Mini Project](semesters/s6/mini-project.md)
-* [📝 S7](semesters/s7.md)
+* [📝 S7](semesters/s7/README.md)
+  * [AI](semesters/s7/ai.md)
+  * [PE2 - Cloud](semesters/s7/pe2-cloud.md)
+  * [PE2 - Web](semesters/s7/pe2-web.md)
+  * [Renewable](semesters/s7/renewable.md)
+  * [ISE](semesters/s7/ise.md)
+  * [CD Lab](semesters/s7/cd-lab.md)
+  * [Seminar](semesters/s7/seminar.md)
+  * [Project](semesters/s7/project.md)
 * [🎓 S8](semesters/s8.md)
 
 ## Resources

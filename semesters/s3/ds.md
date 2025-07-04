@@ -3,20 +3,6 @@ description: CST201 - Data Structures
 cover: >-
   https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxkYXRhJTIwc3RydWN0dXJlc3xlbnwwfHx8fDE2OTUxMTg3MTN8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📉 DS

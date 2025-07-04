@@ -3,20 +3,6 @@ description: CST362 - Programming in Python
 icon: python
 cover: https://fastnetmon.com/wp-content/uploads/2016/08/python-logo.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # PIP (Elective)

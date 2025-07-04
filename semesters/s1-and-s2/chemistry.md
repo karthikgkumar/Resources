@@ -3,29 +3,15 @@ description: CYT100 - Engineering Chemistry
 cover: >-
   https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxjaGVtaXN0cnl8ZW58MHx8fHwxNjk0ODUxNTY5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
-# ⚗ Chemistry
+# ⚗️ Chemistry
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[CYT100](https://drive.google.com/file/d/1YPUGNlEYcuvLaMUMzO-xAZ\_eUMt1NWmu/view?usp=drive\_link) 👈
+[CYT100](https://drive.google.com/file/d/1YPUGNlEYcuvLaMUMzO-xAZ_eUMt1NWmu/view?usp=drive_link) 👈
 
 </details>
 
@@ -33,7 +19,7 @@ layout:
 
 <summary>Textbook 📖</summary>
 
-[Engineering Chemistry](https://drive.google.com/drive/folders/1\_k4KxrTNWnwwSuabaS5Bd\_GlLOLdTPPn?usp=drive\_link)👈
+[Engineering Chemistry](https://drive.google.com/drive/folders/1_k4KxrTNWnwwSuabaS5Bd_GlLOLdTPPn?usp=drive_link)👈
 
 </details>
 
@@ -41,7 +27,7 @@ layout:
 
 <summary>Lab Manual 📔</summary>
 
-[Chemistry Lab Manual](https://drive.google.com/drive/folders/1BwG\_ok7qGGHMD9Z\_fP8MHqmhxas3P63B?usp=drive\_link)👈
+[Chemistry Lab Manual](https://drive.google.com/drive/folders/1BwG_ok7qGGHMD9Z_fP8MHqmhxas3P63B?usp=drive_link)👈
 
 </details>
 
@@ -49,7 +35,7 @@ layout:
 
 <summary>Lecture Notes 📒</summary>
 
-[Chemistry Notes](https://drive.google.com/drive/folders/1Fle0bgc90--9wx5-za3SiXtsSFQG\_Lkp?usp=drive\_link)👈
+[Chemistry Notes](https://drive.google.com/drive/folders/1Fle0bgc90--9wx5-za3SiXtsSFQG_Lkp?usp=drive_link)👈
 
 </details>
 
@@ -57,7 +43,7 @@ layout:
 
 <summary>Series QPs from different colleges 📃</summary>
 
-[Chemistry Series Question Papers](https://drive.google.com/drive/folders/1zZIkQKl-TC7niMwrcNQbR6PMSJEenLNf?usp=drive\_link)👈
+[Chemistry Series Question Papers](https://drive.google.com/drive/folders/1zZIkQKl-TC7niMwrcNQbR6PMSJEenLNf?usp=drive_link)👈
 
 </details>
 
@@ -65,6 +51,6 @@ layout:
 
 <summary>University QPs 📑</summary>
 
-[Chemistry University Question Papers](https://drive.google.com/drive/folders/1ddWjZaTRIMbayWU9t\_F-gR3fe\_iRKNiA?usp=drive\_link)👈
+[Chemistry University Question Papers](https://drive.google.com/drive/folders/1ddWjZaTRIMbayWU9t_F-gR3fe_iRKNiA?usp=drive_link)👈
 
 </details>

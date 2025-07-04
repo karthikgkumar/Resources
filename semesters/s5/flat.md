@@ -3,20 +3,6 @@ description: CST301 - Formal Languages and Automata Theory
 cover: >-
   https://images.unsplash.com/photo-1572435555646-7ad9a149ad91?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0dXJpbmclMjBtYWNoaW5lfGVufDB8fHx8MTcyNTAyNjYwNnww&ixlib=rb-4.0.3&q=85
 coverY: -44
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 💾 FLAT

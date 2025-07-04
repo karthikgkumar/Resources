@@ -2,20 +2,6 @@
 description: CST307 - Microprocessors and Microcontrollers
 cover: ../../.gitbook/assets/8086-1.jpg
 coverY: 53
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🕹️ MM
