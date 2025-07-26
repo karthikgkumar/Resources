@@ -7,6 +7,8 @@ coverY: 0
 
 # 🥼 SS\&M Lab
 
+{% embed url="https://code4labexam.vercel.app/" %}
+
 <details>
 
 <summary>Syllabus 📚</summary>
