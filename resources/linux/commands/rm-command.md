@@ -63,7 +63,17 @@ rm -r fruits
 This creates two folders, then deletes `fruits` and everything inside it (if any).
 
 ---
+### Remove Git Tracking by Deleting .git Folder
+To stop Git from tracking a project, delete the .git directory:
 
+```
+rm -rf .git
+```
+⚠️ Warning:
+- This permanently removes all Git history and config.
+- It does not delete your project files.
+- Use with caution — make backups if needed.
+---
 To learn more, check the manual:
 
 ```bash
