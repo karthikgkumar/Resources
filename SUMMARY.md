@@ -100,6 +100,7 @@
     * [su command](resources/linux/commands/su-command.md)
     * [sudo command](resources/linux/commands/sudo-command.md)
     * [passwd command](resources/linux/commands/passwd-command.md)
+    * [rm command](resources/linux/commands/rm-command.md)
     * [clear command](resources/linux/commands/clear-command.md)
     * [History command](resources/linux/commands/history-command.md)
 * [DSA](resources/dsa/README.md)
