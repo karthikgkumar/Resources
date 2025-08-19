@@ -34,6 +34,14 @@ coverY: 322.11565150346956
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[AI Series QPs](https://drive.google.com/drive/folders/1BMPndlhAujJR36PgIgBmTa30GrlKjeJT?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [AI PYQs](https://drive.google.com/drive/folders/1OFqfuZX6QD1bRn7qUy4rCnzeS2ch7s-X?usp=drive_link) 👈

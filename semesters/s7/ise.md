@@ -26,6 +26,14 @@ coverY: 0
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[ISE Series QPs](https://drive.google.com/drive/folders/1Bqi_ycoeecg_HIPia7V9OfHZLKibpZ3F?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [ISE PYQs](https://drive.google.com/drive/folders/1mcYPnnts7o9n7QYUYMD3jjyjShif4Nwt?usp=drive_link) 👈

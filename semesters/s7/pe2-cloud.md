@@ -34,6 +34,14 @@ coverY: 322.11565150346956
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[Cloud Series QPs](https://drive.google.com/drive/folders/1BYuyBhEJgynG4hg4ToWMRU5NYL_VQ9OS?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [Cloud Computing PYQs](https://drive.google.com/drive/folders/1kUuOA-jUQ2SbXQyiBSgTncnYcstS7fzY?usp=drive_link) 👈
