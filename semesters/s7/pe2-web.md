@@ -34,6 +34,14 @@ coverY: 486.51439218709857
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[Web Series QPs](https://drive.google.com/drive/folders/1C4iL8wBsrrusvp0sRy94fgtG0nQb0SLj?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [Web Programming PYQs](https://drive.google.com/drive/folders/1aG15kr_foiPWSbvz-SVVjA30814JgZ85?usp=drive_link) 👈
