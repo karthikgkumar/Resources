@@ -4,26 +4,9 @@ icon: laptop-binary
 cover: >-
   https://images.unsplash.com/photo-1663770114127-4f61cb62b56d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb21waWxlcnxlbnwwfHx8fDE3NTE1OTYxMzd8MA&ixlib=rb-4.1.0&q=85
 coverY: 462.32832979953736
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # CD Lab
-
-## Will be updated soon!⚒️
 
 <details>
 

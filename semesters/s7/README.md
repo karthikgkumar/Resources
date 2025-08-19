@@ -1,7 +1,5 @@
 # 📝 S7
 
-## Will be updated soon!⚒️
-
 {% content-ref url="ai.md" %}
 [ai.md](ai.md)
 {% endcontent-ref %}
