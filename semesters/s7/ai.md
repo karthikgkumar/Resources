@@ -26,6 +26,14 @@ coverY: 322.11565150346956
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[AI Short Notes](https://drive.google.com/drive/folders/1DZ2UlHPvxKkCmaOOkMxONvl6KUzzpBIq?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [AI Notes](https://drive.google.com/drive/folders/1U_Yb4r8YMvHc2Omac-LmTmj-o0xFtLun?usp=drive_link) 👈
