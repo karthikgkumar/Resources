@@ -26,6 +26,14 @@ coverY: 486.51439218709857
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[Web Short Notes](https://drive.google.com/drive/folders/1HOtRxI2kw04PsEpacs9MACjAvMSsjaQK?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [Web Programming Notes](https://drive.google.com/drive/folders/12WOBnHQdi7xzZLVr4iInwy5AkL8aSux5?usp=drive_link) 👈
