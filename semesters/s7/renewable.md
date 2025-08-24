@@ -34,6 +34,14 @@ coverY: 0
 
 <details>
 
+<summary>Series Question Papers 📃</summary>
+
+[Renewable Series QPs](https://drive.google.com/drive/folders/1CdRLso4pZhk-MPVVzkJChUm91cNOvGxh?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>University Question Papers 📄</summary>
 
 [Renewable Energy Systems PYQs](https://drive.google.com/drive/folders/1nD5uyobZZZU5zwF8KykoL2v0_PRYVV0n?usp=drive_link) 👈
