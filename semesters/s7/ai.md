@@ -44,6 +44,12 @@ coverY: 322.11565150346956
 
 <summary>Tutorials 🧑‍🏫</summary>
 
+Module 3:
+
+* [CSP - Introduction](https://youtu.be/_e64FiDWvqs?si=NsYg6V9NgLrQrOys) 👈
+* [AC-3 Algorithm](https://youtu.be/4cCS8rrYT14?si=7u2R2uazlIv1P03P) 👈
+* [Cryptarithmetic Problem](https://youtu.be/jWvWOUb0hOI?si=6OVvG-Wc3PsCqgsu) 👈
+
 Module 4:
 
 * [Modus Ponens and Modus Tollens](https://youtu.be/NTSZMdGlo4g?si=gDUhknvnrQSVsWBU) 👈
