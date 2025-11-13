@@ -42,6 +42,18 @@ coverY: 322.11565150346956
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+Module 4:
+
+* [Modus Ponens and Modus Tollens](https://youtu.be/NTSZMdGlo4g?si=gDUhknvnrQSVsWBU) 👈
+* [Entailment](https://youtu.be/Pep2reNT7Lg?t=338\&si=yKmvkYhrK3oDV-tb) 👈
+* [Most General Unifier (MGU)](https://youtu.be/zeyjeGDxrWc?t=479\&si=wAs7TaNwHrbpquVL) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [AI Series QPs](https://drive.google.com/drive/folders/1BMPndlhAujJR36PgIgBmTa30GrlKjeJT?usp=drive_link) 👈
