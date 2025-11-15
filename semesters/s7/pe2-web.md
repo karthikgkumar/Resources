@@ -52,6 +52,8 @@ coverY: 486.51439218709857
 
 <summary>University Question Papers 📄</summary>
 
-[Web Programming PYQs](https://drive.google.com/drive/folders/1aG15kr_foiPWSbvz-SVVjA30814JgZ85?usp=drive_link) 👈
+[Web Programming PYQs Set 1](https://drive.google.com/drive/folders/1aG15kr_foiPWSbvz-SVVjA30814JgZ85?usp=drive_link)👈
+
+[Web Programming PYQs Set 2](https://drive.google.com/drive/u/1/folders/1lHCcZBqnaGB7oX4dWVicpHJKe5T1S0kS)
 
 </details>
