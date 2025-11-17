@@ -46,6 +46,10 @@ coverY: 486.51439218709857
 
 [The DOM in 4 minutes](https://youtu.be/KShnPYN-voI?si=AsqE3H-A1YVThN6P) 👈
 
+[PHP $\_COOKIE explained](https://youtu.be/EgDQ7Z13FQc?si=CyBHyMqlEhQIBXlP) 👈
+
+[PHP $\_SESSION explained](https://youtu.be/JXKQmIpjRTk?si=CH6wtJkhopmcGl5S) 👈&#x20;
+
 </details>
 
 <details>
