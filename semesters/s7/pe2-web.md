@@ -50,6 +50,8 @@ coverY: 486.51439218709857
 
 [PHP $\_SESSION explained](https://youtu.be/JXKQmIpjRTk?si=CH6wtJkhopmcGl5S) 👈&#x20;
 
+[How to Connect HTML Form with MySQL Database using PHP](https://youtu.be/2HVKizgcfjo?si=aQt0NWzIIRG9FFMK) 👈
+
 </details>
 
 <details>
