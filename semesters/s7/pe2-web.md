@@ -42,6 +42,14 @@ coverY: 486.51439218709857
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[The DOM in 4 minutes](https://youtu.be/KShnPYN-voI?si=AsqE3H-A1YVThN6P) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [Web Series QPs](https://drive.google.com/drive/folders/1C4iL8wBsrrusvp0sRy94fgtG0nQb0SLj?usp=drive_link) 👈
