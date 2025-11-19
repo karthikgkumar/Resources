@@ -34,6 +34,14 @@ coverY: 0
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Solar thermal power plant](https://youtu.be/VjGlITG0t2U?si=cWop8l8B8Q3HwSNO) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [Renewable Series QPs](https://drive.google.com/drive/folders/1CdRLso4pZhk-MPVVzkJChUm91cNOvGxh?usp=drive_link) 👈
