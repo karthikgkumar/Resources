@@ -38,6 +38,8 @@ coverY: 0
 
 [Solar thermal power plant](https://youtu.be/VjGlITG0t2U?si=cWop8l8B8Q3HwSNO) 👈
 
+[Fill Factor of Solar Cell](https://youtu.be/zX54Ju3sMPo?si=QFKLaW6lwZa_MxXY) 👈
+
 </details>
 
 <details>
