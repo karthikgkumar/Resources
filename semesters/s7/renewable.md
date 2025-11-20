@@ -40,6 +40,10 @@ coverY: 0
 
 [Fill Factor of Solar Cell](https://youtu.be/zX54Ju3sMPo?si=QFKLaW6lwZa_MxXY) 👈
 
+[Impulse Turbine](https://youtu.be/XzopmHnXqwM?si=sNZ-K2UfI3KYG4Ff) 👈
+
+[Pelton vs Turgo turbine](https://youtu.be/WCT9F5Cad1U?si=5EzYB-ITnSvGLf2g) 👈
+
 </details>
 
 <details>
