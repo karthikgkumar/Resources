@@ -14,32 +14,32 @@ coverY: 0
 **Make sure to click the&#x20;**<mark style="color:yellow;">**drop-down arrow**</mark>**&#x20;itself to access the content!**
 {% endhint %}
 
-{% content-ref url="semesters/s1-and-s2/" %}
-[s1-and-s2](semesters/s1-and-s2/)
+{% content-ref url="semesters-2019-syllabus/s1-and-s2/" %}
+[s1-and-s2](semesters-2019-syllabus/s1-and-s2/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s3/" %}
-[s3](semesters/s3/)
+{% content-ref url="semesters-2019-syllabus/s3/" %}
+[s3](semesters-2019-syllabus/s3/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s4/" %}
-[s4](semesters/s4/)
+{% content-ref url="semesters-2019-syllabus/s4/" %}
+[s4](semesters-2019-syllabus/s4/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s5/" %}
-[s5](semesters/s5/)
+{% content-ref url="semesters-2019-syllabus/s5/" %}
+[s5](semesters-2019-syllabus/s5/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s6/" %}
-[s6](semesters/s6/)
+{% content-ref url="semesters-2019-syllabus/s6/" %}
+[s6](semesters-2019-syllabus/s6/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s7/" %}
-[s7](semesters/s7/)
+{% content-ref url="semesters-2019-syllabus/s7/" %}
+[s7](semesters-2019-syllabus/s7/)
 {% endcontent-ref %}
 
-{% content-ref url="semesters/s8.md" %}
-[s8.md](semesters/s8.md)
+{% content-ref url="semesters-2019-syllabus/s8.md" %}
+[s8.md](semesters-2019-syllabus/s8.md)
 {% endcontent-ref %}
 
 ## Contribution Guidelines
