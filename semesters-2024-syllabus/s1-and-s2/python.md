@@ -1,5 +1,5 @@
 ---
-description: HUN102 - Professional Communication
+description: UCEST105 - ALGORITHMIC THINKING WITH PYTHON
 cover: >-
   https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxwcm9mZXNzaW9uYWwlMjBjb21tdW5pY2F0aW9ufGVufDB8fHx8MTY5NTA1MTA0Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0
