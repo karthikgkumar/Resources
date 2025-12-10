@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🧑‍💼 Python (Not completed)
+# 🧑‍💼 Algorithimic Thinking With Python (Not completed)
 
 <details>
 
