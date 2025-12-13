@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# ⛷️ IT Lab (Not Completed)
+# ⛷️ Health and wellness(not updated)
 
 <details>
 
@@ -19,7 +19,7 @@ coverY: 0
 
 <summary>Textbook 📖</summary>
 
-[Life Skills Textbook](https://drive.google.com/file/d/1m4g1LHTjSUY03wa10nahfQHmQxSXqlZr/view?usp=drive_link)👈
+[Health and wellness Textbook](https://drive.google.com/file/d/1m4g1LHTjSUY03wa10nahfQHmQxSXqlZr/view?usp=drive_link)👈
 
 </details>
 
@@ -27,7 +27,7 @@ coverY: 0
 
 <summary>Series QPs from different colleges 📃</summary>
 
-[LS Series Question Papers](https://drive.google.com/drive/folders/17M16TdNSWYoGGeedxekWfxmOJ8RJmpAa?usp=drive_link)👈
+[H&W Series Question Papers](https://drive.google.com/drive/folders/17M16TdNSWYoGGeedxekWfxmOJ8RJmpAa?usp=drive_link)👈
 
 </details>
 
