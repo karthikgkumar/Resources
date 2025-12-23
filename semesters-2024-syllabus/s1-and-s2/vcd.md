@@ -1,17 +1,17 @@
 ---
-description: MAT102 - Vector Calculus, Differential Equations and Transforms
+description: GAMAT101 - MATHEMATICS FOR INFORMATION SCIENCE – 1
 cover: >-
   https://images.unsplash.com/photo-1635070041078-e363dbe005cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxtYXRofGVufDB8fHx8MTY5NDkyNzUzMHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 📈 Maths for information science - 1(not updated)
+# 📈 MATHEMATICS - 1 (Group A)
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[MAT102](https://drive.google.com/file/d/1c8mdtBppzMMelqZG-iFq56V4yG6FeP9V/view?usp=drive_link)👈
+[GAMAT101](https://drive.google.com/file/d/1MO285FL5QDrPe9JPq7WYryMRIyN8B8nu/view?usp=sharing)👈
 
 </details>
 

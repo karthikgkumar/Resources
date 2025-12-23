@@ -1,17 +1,17 @@
 ---
-description: EST110 - Engineering Graphics
+description: GMEST103 - ENGINEERING GRAPHICS AND COMPUTER AIDED DRAWING
 cover: >-
   https://images.unsplash.com/photo-1600428610161-e98636332e98?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxlbmdpbmVlcmluZyUyMGRyYXdpbmd8ZW58MHx8fHwxNjk1MDQ4NTczfDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 📐 Graphics(not updated)
+# 📐 Graphics - Group A,B & D
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[EST110](https://drive.google.com/file/d/1uixvsyA96WTnV4AheQX2eLbEQLAjShrE/view?usp=drive_link)👈
+[GMEST103](https://drive.google.com/file/d/1Bghj11nv3SxfIuoI-tmXFZF_OricTPLi/view?usp=sharing)👈
 
 </details>
 

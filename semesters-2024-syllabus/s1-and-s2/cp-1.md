@@ -1,19 +1,17 @@
 ---
-description: UCEST105 - ALGORITHMIC THINKING WITH PYTHON
+description: EST102 - Programming in C
 cover: >-
   https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8QyUyMHByb2dyYW1taW5nfGVufDB8fHx8MTY5NTA1MDIyNHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 💻 Python - Group A, B, C & D
-
-
+# 🖥️ CP(not updated)
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[UCEST105](https://drive.google.com/file/d/1b_aU2KPRXTVYm_h3_vYcdkW2RZ4FdEGC/view?usp=sharing)👈
+[EST102](https://drive.google.com/file/d/1OSv2NBQeqyMa5pN8HiwmmoTJQjQmD7A1/view?usp=drive_link)👈
 
 </details>
 
@@ -29,7 +27,7 @@ coverY: 0
 
 <summary>Lecture Notes 📒</summary>
 
-[ATP Notes](https://drive.google.com/drive/folders/1Srz-AfFUIzXj-3_iDyB3WkiYGUub8PLt?usp=sharing)👈
+[CP Notes](https://drive.google.com/drive/folders/1L4jO5Y33j0mMOutV8kHGKAO8TKrWMgG_?usp=drive_link)👈
 
 </details>
 
@@ -37,7 +35,7 @@ coverY: 0
 
 <summary>Tutorials 🧑🏽‍🏫</summary>
 
-[ATP Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?tab=t.0)👈
+[CP Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?usp=drive_link)👈
 
 </details>
 

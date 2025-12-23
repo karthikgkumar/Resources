@@ -1,19 +1,19 @@
 ---
-description: PHT100 - Engineering Physics A, PHT110 - Engineering Physics B
+description: GAPHT121 -PHYSICS FOR INFORMATION SCIENCE
 cover: >-
   https://images.unsplash.com/photo-1636466497217-26a8cbeaf0aa?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwaHlzaWNzfGVufDB8fHx8MTY5NDg1MzQyMXww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🔭 Physics(not updated)
+# 🔭 Physics - Group A
+
+
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[PHT100 Physics A](https://drive.google.com/file/d/1eOWSyIDRrYMvWCYu6oT6Ov0n7hKwd27e/view?usp=drive_link)👈
-
-[PHT110 Physics B](https://drive.google.com/file/d/1074voq695gMfMALs3U7ZW4SGHQZmb7iC/view?usp=drive_link)👈
+[GAPHT121](https://drive.google.com/file/d/1KOtRdAl__2KcvJiIoHK9ZGRFVQiHFidz/view?usp=sharing)👈
 
 </details>
 

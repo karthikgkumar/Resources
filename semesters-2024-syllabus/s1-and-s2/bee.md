@@ -1,17 +1,17 @@
 ---
-description: EST130 - Basics of Electrical and Electronics Engineering
+description: GXEST104 - INTRODUCTION TO ELECTRICAL AND ELECTRONICS ENGINEERING
 cover: >-
   https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxlbGVjdHJpY2FsJTIwYW5kJTIwZWxlY3Ryb25pY3N8ZW58MHx8fHwxNjk1MDAyNTA1fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 🔌 BEE(not updated)
+# 🔌 Electrical and Electronics - Group A & B
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[EST130](https://drive.google.com/file/d/1Uc6RXgf0RS_67-2iGP7kDg4cUGN1CsrS/view?usp=drive_link)👈
+[GXEST104](https://drive.google.com/file/d/1Xm4DfqRFxSP4ulmR-eyKvSMXj8D43r7P/view?usp=sharing)👈
 
 </details>
 

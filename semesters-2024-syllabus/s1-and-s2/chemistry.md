@@ -1,17 +1,17 @@
 ---
-description: CYT100 - Engineering Chemistry
+description: GXCY122 - CHEMISTRY FOR INFORMATION SCIENCE AND ELECTRICAL SCIENCE
 cover: >-
   https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxjaGVtaXN0cnl8ZW58MHx8fHwxNjk0ODUxNTY5fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# ⚗️ Chemistry(not updated)
+# ⚗️ Chemistry - Group A & B
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[CYT100](https://drive.google.com/file/d/1YPUGNlEYcuvLaMUMzO-xAZ_eUMt1NWmu/view?usp=drive_link) 👈
+[GXCY122](https://drive.google.com/file/d/1ZTgFrVUUx-GVfXxlayGBe9fwo_iSo-Sg/view?usp=drive_link) 👈
 
 </details>
 
