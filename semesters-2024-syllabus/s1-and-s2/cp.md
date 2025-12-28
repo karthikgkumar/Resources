@@ -13,15 +13,7 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[UCEST105](https://drive.google.com/file/d/1b_aU2KPRXTVYm_h3_vYcdkW2RZ4FdEGC/view?usp=sharing)👈
-
-</details>
-
-<details>
-
-<summary>Textbook 📖</summary>
-
-[Programming in C](https://drive.google.com/drive/folders/1Kvq0iqUnhJMyZZj18xw1mCdEaKXNMjyl?usp=drive_link)👈
+[UCEST105 Syllabus](https://drive.google.com/file/d/1b_aU2KPRXTVYm_h3_vYcdkW2RZ4FdEGC/view?usp=sharing)👈
 
 </details>
 
@@ -29,7 +21,15 @@ coverY: 0
 
 <summary>Lecture Notes 📒</summary>
 
-[ATP Notes](https://drive.google.com/drive/folders/1Srz-AfFUIzXj-3_iDyB3WkiYGUub8PLt?usp=sharing)👈
+[UCEST105 Notes](https://drive.google.com/drive/folders/1Srz-AfFUIzXj-3_iDyB3WkiYGUub8PLt?usp=sharing)👈
+
+</details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[UCEST105 Textbooks](https://drive.google.com/drive/folders/1suk817uh5P4L2SXVGyDDeMcW-j30vusz?usp=sharing)👈
 
 </details>
 
@@ -37,7 +37,7 @@ coverY: 0
 
 <summary>Tutorials 🧑🏽‍🏫</summary>
 
-[ATP Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?tab=t.0)👈
+[UCEST105 Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?tab=t.0)👈
 
 </details>
 

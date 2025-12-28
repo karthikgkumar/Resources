@@ -11,7 +11,15 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[GXEST104](https://drive.google.com/file/d/1Xm4DfqRFxSP4ulmR-eyKvSMXj8D43r7P/view?usp=sharing)👈
+[GXEST104 Syllabus](https://drive.google.com/file/d/1Xm4DfqRFxSP4ulmR-eyKvSMXj8D43r7P/view?usp=sharing)👈
+
+</details>
+
+<details>
+
+<summary>Lecture Notes 📒</summary>
+
+[GXEST104 Notes](https://drive.google.com/drive/folders/1RqTyAAt0zzXA0DI4FlZin4xVmxlU_p9t?usp=drive_link)👈
 
 </details>
 
@@ -19,7 +27,7 @@ coverY: 0
 
 <summary>Textbook 📖</summary>
 
-[BEE Textbook](https://drive.google.com/drive/folders/1fhBcPeTQ0PfuBUPdq2zWvlCOOaAEkxNU?usp=drive_link)👈
+[GXEST104 Textbook](https://drive.google.com/drive/folders/1fhBcPeTQ0PfuBUPdq2zWvlCOOaAEkxNU?usp=drive_link)👈
 
 </details>
 
@@ -38,16 +46,6 @@ coverY: 0
 [Electrical Short Notes](https://drive.google.com/drive/folders/1zGiRTQNuE05sAivzeeF2A8bunWK1D_MD?usp=drive_link)👈
 
 [Electronics Short Notes](https://drive.google.com/drive/folders/1iQtgKBH_G1k8bH5yfr9VlJRgwPwrZm0m?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Lecture Notes 📒</summary>
-
-[Notes 1](https://drive.google.com/drive/folders/1RUqZ0q2q4JStJAVe2wNmW0wSQSUTLQxX?usp=drive_link)👈
-
-[Notes 2](https://drive.google.com/drive/folders/1EZ9h_Ab-3NTE_VWZ33Wy9TcjBJRek8Ma?usp=drive_link)👈
 
 </details>
 

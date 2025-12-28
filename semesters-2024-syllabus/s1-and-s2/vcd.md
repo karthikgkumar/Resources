@@ -11,7 +11,15 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[GAMAT101](https://drive.google.com/file/d/1MO285FL5QDrPe9JPq7WYryMRIyN8B8nu/view?usp=sharing)👈
+[GAMAT101 Syllabus](https://drive.google.com/file/d/1MO285FL5QDrPe9JPq7WYryMRIyN8B8nu/view?usp=sharing)👈
+
+</details>
+
+<details>
+
+<summary>Lecture Notes 📒</summary>
+
+[GAMAT101 Notes](https://drive.google.com/drive/folders/1oaUlNd2BWhvqfoYHZ_Bdik6rLdGLyWSu?usp=sharing)👈
 
 </details>
 
@@ -28,14 +36,6 @@ coverY: 0
 <summary>Capsule 💊</summary>
 
 [VCD Short notes](https://drive.google.com/drive/folders/1u-q4vt4s_kv0SKyYB0Dlbo1LHRhRNZ7V?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Lecture Notes 📒</summary>
-
-[VCD Notes](https://drive.google.com/drive/folders/1ZCFIOiVISjIFSEFu-pexkm1tJAVsjOBt?usp=drive_link)👈
 
 </details>
 

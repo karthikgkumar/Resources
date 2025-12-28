@@ -11,7 +11,15 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[GXCY122](https://drive.google.com/file/d/1ZTgFrVUUx-GVfXxlayGBe9fwo_iSo-Sg/view?usp=drive_link) 👈
+[GXCYT122 Syllabus](https://drive.google.com/file/d/1ZTgFrVUUx-GVfXxlayGBe9fwo_iSo-Sg/view?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Lecture Notes 📒</summary>
+
+[GXCYT122 Notes](https://drive.google.com/drive/folders/1IDudn7sfsnefXcwAQYuyx4W0fsSHIbST?usp=sharing)👈
 
 </details>
 
@@ -19,7 +27,7 @@ coverY: 0
 
 <summary>Textbook 📖</summary>
 
-[Engineering Chemistry](https://drive.google.com/drive/folders/1_k4KxrTNWnwwSuabaS5Bd_GlLOLdTPPn?usp=drive_link)👈
+[GXCYT122 Textbook](https://drive.google.com/drive/folders/1NdtrRb9sBHz2sQfkJzq4pMgwseITPfsr?usp=sharing)👈
 
 </details>
 
@@ -28,14 +36,6 @@ coverY: 0
 <summary>Lab Manual 📔</summary>
 
 [Chemistry Lab Manual](https://drive.google.com/drive/folders/1BwG_ok7qGGHMD9Z_fP8MHqmhxas3P63B?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Lecture Notes 📒</summary>
-
-[Chemistry Notes](https://drive.google.com/drive/folders/1Fle0bgc90--9wx5-za3SiXtsSFQG_Lkp?usp=drive_link)👈
 
 </details>
 

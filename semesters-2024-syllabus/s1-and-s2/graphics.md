@@ -11,7 +11,7 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[GMEST103](https://drive.google.com/file/d/1Bghj11nv3SxfIuoI-tmXFZF_OricTPLi/view?usp=sharing)👈
+[GMEST103 Syllabus](https://drive.google.com/file/d/1Bghj11nv3SxfIuoI-tmXFZF_OricTPLi/view?usp=sharing)👈
 
 </details>
 
@@ -19,7 +19,7 @@ coverY: 0
 
 <summary>Lecture Notes 📒</summary>
 
-[EG Notes](https://drive.google.com/drive/folders/1OTNPnW3d-iO-hDjWK8rcRXoO7Ae_s6DY?usp=drive_link)👈
+[GMEST103 Notes](https://drive.google.com/drive/folders/1i03ZaAy-lTAhbobHCBu_fzfoUFKgYort?usp=sharing)👈
 
 </details>
 

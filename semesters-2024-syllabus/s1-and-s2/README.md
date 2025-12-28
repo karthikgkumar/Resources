@@ -42,8 +42,16 @@ Get access towards useful tutorials from here! 🙌🏽
 [bee.md](../../semesters-2019-syllabus/s1-and-s2/bee.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/graphics.md" %}
-[graphics.md](../../semesters-2019-syllabus/s1-and-s2/graphics.md)
+{% content-ref url="graphics.md" %}
+[graphics.md](graphics.md)
+{% endcontent-ref %}
+
+{% content-ref url="vcd.md" %}
+[vcd.md](vcd.md)
+{% endcontent-ref %}
+
+{% content-ref url="vcd-1.md" %}
+[vcd-1.md](vcd-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../semesters-2019-syllabus/s1-and-s2/mechanics.md" %}
