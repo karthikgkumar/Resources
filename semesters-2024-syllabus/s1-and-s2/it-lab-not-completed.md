@@ -1,2 +1,0 @@
-# ⛷️ IT Lab (Not Completed)
-

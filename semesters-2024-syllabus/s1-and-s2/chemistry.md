@@ -35,15 +35,15 @@ coverY: 0
 
 <summary>Lab Manual 📔</summary>
 
-[Chemistry Lab Manual](https://drive.google.com/drive/folders/1BwG_ok7qGGHMD9Z_fP8MHqmhxas3P63B?usp=drive_link)👈
+[GXCY122 Lab Manual](https://drive.google.com/drive/folders/1BwG_ok7qGGHMD9Z_fP8MHqmhxas3P63B?usp=drive_link)👈
 
 </details>
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Series QPs 📃</summary>
 
-[Chemistry Series Question Papers](https://drive.google.com/drive/folders/1zZIkQKl-TC7niMwrcNQbR6PMSJEenLNf?usp=drive_link)👈
+[GXCY122 Series Question Papers](https://drive.google.com/drive/folders/16FMqx--vC-Zc1HLV5uoOR3UC-HuV_QtE?usp=drive_link)👈
 
 </details>
 
@@ -51,6 +51,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[Chemistry University Question Papers](https://drive.google.com/drive/folders/1ddWjZaTRIMbayWU9t_F-gR3fe_iRKNiA?usp=drive_link)👈
+[GXCY122 University Question Papers](https://drive.google.com/drive/folders/1fjUI3sHOFv9_2ZeuqwjdjUnQVqtw7f7C?usp=drive_link)👈
 
 </details>

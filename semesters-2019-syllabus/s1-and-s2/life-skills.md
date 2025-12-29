@@ -1,11 +1,11 @@
 ---
-description: HUN101 - Life Skills
+description: HUN101 - Life Skills and Professional Communication
 cover: >-
   https://images.unsplash.com/photo-1468322638156-074863f9362e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxza2lsbHN8ZW58MHx8fHwxNjk1MDUwNTk1fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# ⛷️ Life Skills
+# ⛷️ LSPC
 
 <details>
 

@@ -37,15 +37,15 @@ coverY: 0
 
 <summary>Tutorials 🧑🏽‍🏫</summary>
 
-[UCEST105 Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?tab=t.0)👈
+[Learn Python -  Useful Links](https://docs.google.com/document/d/1TcE2-CHBd9ASCEKQbo20yQRUhOjKfgl-A7PPuvRhZPc/edit?tab=t.0)👈
 
 </details>
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Series QPs 📃</summary>
 
-[CP Series Question Papers](https://drive.google.com/drive/folders/1wY7j6D4d-h17M0InTB2rE6Xr1Vg4tDbN?usp=drive_link)👈
+[UCEST105 Series Question Papers](https://drive.google.com/drive/folders/1b9rt7EyW1uloovwKPWs-2AaGaGdO-1wI?usp=drive_link)👈
 
 </details>
 
@@ -53,26 +53,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[CP University Question Papers](https://drive.google.com/drive/folders/15Pz_qKT1AXW9Jm61Xvuk76ulwYbNNdRC?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Sample Questions 💯</summary>
-
-[CP Extra Questions](https://drive.google.com/drive/folders/1WWl7wy8Hv80CiZcYm7v35V4XAjsa2awl?usp=drive_link)👈
-
-</details>
-
-{% hint style="info" %}
-**Recommended Read** contains a book that would give you a head-start for learning DSA (Data Structures and Algorithms).
-{% endhint %}
-
-<details>
-
-<summary>Recommended Read 📔</summary>
-
-[Computer Science Distilled - Wladston Ferreira Filho ](https://drive.google.com/file/d/1jL87e5_dMIC2qfNFQZTa0xGFjIbiFHAs/view?usp=sharing)👈
+[UCEST105 University Question Papers](https://drive.google.com/drive/folders/1Ec4RCuqn54b96OTco2TTCtOTUtBlvyNe?usp=drive_link)👈
 
 </details>

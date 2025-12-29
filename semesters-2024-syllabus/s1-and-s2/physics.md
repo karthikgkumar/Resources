@@ -13,31 +13,7 @@ coverY: 0
 
 <summary>Syllabus 📚</summary>
 
-[GAPHT121](https://drive.google.com/file/d/1KOtRdAl__2KcvJiIoHK9ZGRFVQiHFidz/view?usp=sharing)👈
-
-</details>
-
-<details>
-
-<summary>Textbook 📖</summary>
-
-[Engineering Physics A](https://drive.google.com/drive/folders/1QKd2_Ma2MAeCrOj_pR6d1wOfFQwvpNfV?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Lab Manual📔</summary>
-
-[Physics Lab Manual](https://drive.google.com/drive/folders/1WclBeRUPrnv0mg0G4E4KLZ_ArtOYipuv?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Capsule 💊</summary>
-
-[Short notes](https://drive.google.com/drive/folders/1ZeG0lPPj3-Tt6NLC8DYteGuhcHX40M9X?usp=drive_link)👈
+[GAPHT121 Syllabus](https://drive.google.com/file/d/1KOtRdAl__2KcvJiIoHK9ZGRFVQiHFidz/view?usp=sharing)👈
 
 </details>
 
@@ -45,23 +21,39 @@ coverY: 0
 
 <summary>Lecture Notes 📒</summary>
 
-[Physics notes](https://drive.google.com/drive/folders/1lvmNJ3cM24EIrgBo_n-DESNlV2HW0SLS?usp=drive_link)👈
+[GAPHT121 Notes](https://drive.google.com/drive/folders/13Zm03iiAPTg0jHF0-lT-BkaLz5qDVyt7?usp=sharing)👈
 
 </details>
 
 <details>
 
-<summary>Numerical Problems 🔢 </summary>
+<summary>Textbook 📖</summary>
 
-[Physics A Solved Problems](https://drive.google.com/file/d/1o9Io8HybzaS-SHjNxD8sudYjVxPW3oSG/view?usp=drive_link)👈
+[GAPHT121 Textbook](https://drive.google.com/drive/folders/1QKd2_Ma2MAeCrOj_pR6d1wOfFQwvpNfV)👈
 
 </details>
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Lab Manual📔</summary>
 
-[Physics Series Question Papers](https://drive.google.com/drive/folders/1HCRP_J9T-9XgwsbF6mglgYQGDPk_ndSH?usp=drive_link)👈
+[GAPHT121 Lab Manual](https://drive.google.com/drive/folders/1WclBeRUPrnv0mg0G4E4KLZ_ArtOYipuv?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Capsule 💊</summary>
+
+[GAPHT121 Short notes](https://drive.google.com/drive/folders/1ZeG0lPPj3-Tt6NLC8DYteGuhcHX40M9X?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Series QPs 📃</summary>
+
+[GAPHT121 Series Question Papers](https://drive.google.com/drive/folders/18Hd-VsT_D21uihFs9RhqcwqyLcfOPqCR?usp=drive_link)👈
 
 </details>
 
@@ -69,14 +61,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[Physics University Question Papers](https://drive.google.com/drive/folders/1wD0PNHJ9yjDWW9GDRFoe7H_UO-IvNviT?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Sample Questions 💯</summary>
-
-[Extra Questions](https://drive.google.com/drive/folders/1srY_LYOucgnYmwXigDZ8kcbbIz4skQnn?usp=drive_link)👈
+[GAPHT121 University Question Papers](https://drive.google.com/drive/folders/1_6I-kgTq0S30wyo8D8rrKm4VZfXymjsK?usp=drive_link)👈
 
 </details>

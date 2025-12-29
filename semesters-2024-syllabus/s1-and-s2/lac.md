@@ -1,17 +1,25 @@
 ---
-description: MAT101 - Linear Algebra and Calculus
+description: PCCST205 - DISCRETE MATHEMATICS
 cover: >-
-  https://images.unsplash.com/photo-1548690596-f1722c190938?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxtYXRofGVufDB8fHx8MTY5NDkyNzUzMHww&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1754304342329-3c5aff22a39c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxESVNDUkVURSUyME1BVEhFTUFUSUNTfGVufDB8fHx8MTc2Njk5OTE3M3ww&ixlib=rb-4.1.0&q=85
 coverY: 0
 ---
 
-# 📊 Discrete Mathematics(Not updated)
+# 📊 Discrete Mathematics - Group A
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[MAT101](https://drive.google.com/file/d/1uGOu_NvrEplUc6IsA0ukac6_d93apeJN/view?usp=drive_link)👈
+[PCCST205 Syllabus](https://drive.google.com/file/d/1CPAAKnepJ65h9riI7xhDsCp9jHvYbzrQ/view?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Lecture Notes 📒</summary>
+
+[PCCST205 Notes](https://drive.google.com/drive/folders/1VecU3-IODQf4JatbfXMJOJ5V-DpJ0MPG?usp=drive_link)👈
 
 </details>
 
@@ -19,23 +27,15 @@ coverY: 0
 
 <summary>Textbook 📖</summary>
 
-[LAC Textbook](https://drive.google.com/drive/folders/1qFyvjMkpswR0tqgOjn8a-v_PryI83Qbf?usp=drive_link)👈
+[PCCST205 Textbook](https://drive.google.com/file/d/1tCPd3uN0qpH1j5-lHEYIfVSvqbMcLYDr/view)👈
 
 </details>
 
 <details>
 
-<summary>Capsule 💊</summary>
+<summary>Series QPs 📃</summary>
 
-[Short Notes](https://drive.google.com/drive/folders/18PrTLGxz8KidzaxKbzgudJUIV27VcUyT?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Series QPs from different colleges 📃</summary>
-
-[LAC Series Question Papers](https://drive.google.com/drive/folders/1MyZP77i0y8oQhF2I3vdLSH3w4guUhzxK?usp=drive_link)👈
+[PCCST205 Series QPs](https://drive.google.com/drive/folders/1RyAraF7cD97RhDebRFV-ea7jdLS1CO0A?usp=drive_link)👈
 
 </details>
 
@@ -43,14 +43,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[LAC University Question Papers](https://drive.google.com/drive/folders/1l9wrhSHFaqW6Ih-GrOQyjRxdN-g-1s_L?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Sample Questions 💯</summary>
-
-[LAC Extra Questions](https://drive.google.com/drive/folders/1gmjh8904-LOt5uOM_vJQGuL7TMIWERNY?usp=drive_link)👈
+[PCCST205  University Question Papers](https://drive.google.com/drive/folders/1Lj7XBcn7EGzEd8cC7L43MXmO4od75Bof?usp=drive_link)👈
 
 </details>

@@ -1,17 +1,17 @@
 ---
-description: HUN101 - Life Skills
+description: UCHUT128 - Life Skills and Professional Communication
 cover: >-
-  https://images.unsplash.com/photo-1468322638156-074863f9362e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw3fHxza2lsbHN8ZW58MHx8fHwxNjk1MDUwNTk1fDA&ixlib=rb-4.0.3&q=85
-coverY: 0
+  https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxjb21tdW5pY2F0aW9ufGVufDB8fHx8MTc2Njk5NTk5Mnww&ixlib=rb-4.1.0&q=85
+coverY: 700.0504934210527
 ---
 
-# ⛷️ Life Skills(not updated)
+# ⛷️ LSPC - Group A, B, C & D
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[HUN101](https://drive.google.com/file/d/1FfS2UtNtUUvjR-wqFZVGSRd1snu6lK6R/view?usp=drive_link)👈
+[UCHUT128 Syllabus](https://drive.google.com/file/d/1FfS2UtNtUUvjR-wqFZVGSRd1snu6lK6R/view?usp=drive_link)👈
 
 </details>
 
@@ -21,13 +21,15 @@ coverY: 0
 
 [Life Skills Textbook](https://drive.google.com/file/d/1m4g1LHTjSUY03wa10nahfQHmQxSXqlZr/view?usp=drive_link)👈
 
+[Professional Communication Textbook](https://drive.google.com/file/d/1uQ5bREJVLUsgndJ52IQMPETG76ij6fIt/view)👈
+
 </details>
 
 <details>
 
 <summary>Series QPs from different colleges 📃</summary>
 
-[LS Series Question Papers](https://drive.google.com/drive/folders/17M16TdNSWYoGGeedxekWfxmOJ8RJmpAa?usp=drive_link)👈
+<mark style="color:orange;">**NO SERIES EXAM FOR THIS SUBJECT**</mark>
 
 </details>
 
@@ -35,6 +37,7 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[LS University Question Papers](https://drive.google.com/drive/folders/17sAQXQDAqifoFubO8HJB0PQ3Cd99YbaE?usp=drive_link)👈
+<mark style="color:orange;">**N**</mark><mark style="color:orange;">**O END SEMESTER EXAM FOR THIS SUBJECT**</mark>
 
 </details>
+

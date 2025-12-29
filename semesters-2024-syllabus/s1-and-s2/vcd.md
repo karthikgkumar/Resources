@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📈 MATHEMATICS - 1 (Group A)
+# 📈 Mathematics - 1 (Group A)
 
 <details>
 
@@ -33,17 +33,9 @@ coverY: 0
 
 <details>
 
-<summary>Capsule 💊</summary>
+<summary>Series QPs 📃</summary>
 
-[VCD Short notes](https://drive.google.com/drive/folders/1u-q4vt4s_kv0SKyYB0Dlbo1LHRhRNZ7V?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Series QPs from different colleges 📃</summary>
-
-[VCD Series Question Papers](https://drive.google.com/drive/folders/1lN6Mg9rcjXed6wKko8akzK0IwxuTb5ly?usp=drive_link)👈
+[GAMAT101 Series Question Papers](https://drive.google.com/drive/folders/1-bOVoHcJjMcJkjV1oV9D8dZX_QoX4rgR?usp=drive_link)👈
 
 </details>
 
@@ -51,14 +43,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[VCD University Question Papers](https://drive.google.com/drive/folders/1Pqh-4mKYAD1wZAdkdzQD-7YTUqcAjrkC?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Sample Questions 💯</summary>
-
-[VCD Extra Questions](https://drive.google.com/file/d/1gZiem_L9gwUPwyrVoWGa2PbNuABkEg0u/view?usp=drive_link)👈
+[GAMAT101 University Question Papers](vcd.md)👈
 
 </details>

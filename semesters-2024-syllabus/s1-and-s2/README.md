@@ -18,61 +18,59 @@ Get access towards useful tutorials from here! 🙌🏽
 
 ### Subjects in S1 & S2
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/chemistry.md" %}
-[chemistry.md](../../semesters-2019-syllabus/s1-and-s2/chemistry.md)
+{% content-ref url="vcd.md" %}
+[vcd.md](vcd.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/physics.md" %}
-[physics.md](../../semesters-2019-syllabus/s1-and-s2/physics.md)
+{% content-ref url="cp.md" %}
+[cp.md](cp.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/lac.md" %}
-[lac.md](../../semesters-2019-syllabus/s1-and-s2/lac.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/vcd.md" %}
-[vcd.md](../../semesters-2019-syllabus/s1-and-s2/vcd.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/bce-bme.md" %}
-[bce-bme.md](../../semesters-2019-syllabus/s1-and-s2/bce-bme.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/bee.md" %}
-[bee.md](../../semesters-2019-syllabus/s1-and-s2/bee.md)
+{% content-ref url="bee.md" %}
+[bee.md](bee.md)
 {% endcontent-ref %}
 
 {% content-ref url="graphics.md" %}
 [graphics.md](graphics.md)
 {% endcontent-ref %}
 
-{% content-ref url="vcd.md" %}
-[vcd.md](vcd.md)
+{% content-ref url="chemistry.md" %}
+[chemistry.md](chemistry.md)
+{% endcontent-ref %}
+
+{% content-ref url="physics.md" %}
+[physics.md](physics.md)
 {% endcontent-ref %}
 
 {% content-ref url="vcd-1.md" %}
 [vcd-1.md](vcd-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/mechanics.md" %}
-[mechanics.md](../../semesters-2019-syllabus/s1-and-s2/mechanics.md)
+{% content-ref url="cp-1.md" %}
+[cp-1.md](cp-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/cp.md" %}
-[cp.md](../../semesters-2019-syllabus/s1-and-s2/cp.md)
+{% content-ref url="pc.md" %}
+[pc.md](pc.md)
+{% endcontent-ref %}
+
+{% content-ref url="mechanics.md" %}
+[mechanics.md](mechanics.md)
+{% endcontent-ref %}
+
+{% content-ref url="lac.md" %}
+[lac.md](lac.md)
+{% endcontent-ref %}
+
+{% content-ref url="oop-lab.md" %}
+[oop-lab.md](oop-lab.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../semesters-2019-syllabus/s1-and-s2/life-skills.md" %}
 [life-skills.md](../../semesters-2019-syllabus/s1-and-s2/life-skills.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../semesters-2019-syllabus/s1-and-s2/pc.md" %}
-[pc.md](../../semesters-2019-syllabus/s1-and-s2/pc.md)
+{% content-ref url="life-skills-1.md" %}
+[life-skills-1.md](life-skills-1.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**LAC** and **Life Skills** - <mark style="color:yellow;">S1 only</mark>
-
-**VCD**, **Programming in C** and **Professional Communication** - <mark style="color:yellow;">S2 only</mark>
-{% endhint %}
 

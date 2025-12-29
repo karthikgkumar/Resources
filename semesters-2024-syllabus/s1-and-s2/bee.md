@@ -35,17 +35,7 @@ coverY: 0
 
 <summary>Lab Manual📔</summary>
 
-[BEE Lab Manual](https://drive.google.com/file/d/17SIQQ_kjUOrXxXIo20BUBLzv27wXPgZg/view?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Capsule 💊</summary>
-
-[Electrical Short Notes](https://drive.google.com/drive/folders/1zGiRTQNuE05sAivzeeF2A8bunWK1D_MD?usp=drive_link)👈
-
-[Electronics Short Notes](https://drive.google.com/drive/folders/1iQtgKBH_G1k8bH5yfr9VlJRgwPwrZm0m?usp=drive_link)👈
+[GXEST104 Lab Manual](https://drive.google.com/file/d/17SIQQ_kjUOrXxXIo20BUBLzv27wXPgZg/view?usp=drive_link)👈
 
 </details>
 
@@ -53,15 +43,15 @@ coverY: 0
 
 <summary>Tutorials 🧑🏽‍🏫</summary>
 
-[Useful Links](https://docs.google.com/document/d/1A0ws1jaGT3BwEgKJsgAhq8pSlHG5_uNT-bm9HU91WjM/edit?usp=drive_link)👈
+[GXEST104 Useful Links](https://docs.google.com/document/d/1A0ws1jaGT3BwEgKJsgAhq8pSlHG5_uNT-bm9HU91WjM/edit?usp=drive_link)👈
 
 </details>
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Series QPs 📃</summary>
 
-[BEE Series Question Papers](https://drive.google.com/drive/folders/1Ki0LOVscZiwweF1RWZlUTH_y9wa2TSP4?usp=drive_link)👈
+[GXEST104 Series Question Papers](https://drive.google.com/drive/folders/1eDiCDx6htLt_Aucx9f8YXzdLyTIWtnlf?usp=drive_link)👈
 
 </details>
 
@@ -69,7 +59,7 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[BEE University Question Papers](https://drive.google.com/drive/folders/15Aa_37Ghs6NOndlt7C589O2UrZqdX9ER?usp=drive_link)👈
+[GXEST104 University Question Papers](https://drive.google.com/drive/folders/1I-DlG5aku9NsnhVK_s6aQKic0sQm-uMB?usp=drive_link)👈
 
 </details>
 
@@ -77,6 +67,6 @@ coverY: 0
 
 <summary>Question Bank 🏦</summary>
 
-[BEE Question Bank](https://drive.google.com/file/d/1XFhj0GiLlps-6DDmxBqr2yohbvb0aDru/view?usp=drive_link)👈
+[GXEST104 Question Bank](https://drive.google.com/file/d/1XFhj0GiLlps-6DDmxBqr2yohbvb0aDru/view?usp=drive_link)👈
 
 </details>

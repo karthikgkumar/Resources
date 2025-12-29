@@ -1,33 +1,17 @@
 ---
-description: MAT102 - Vector Calculus, Differential Equations and Transforms
+description: GAMAT201 - MATHEMATICS FOR INFORMATION SCIENCE – 2
 cover: >-
   https://images.unsplash.com/photo-1635070041078-e363dbe005cb?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxtYXRofGVufDB8fHx8MTY5NDkyNzUzMHww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# 📈 Maths for information science - 2(not updated)
+# 📈 Mathematics - 2 (Group A)
 
 <details>
 
 <summary>Syllabus 📚</summary>
 
-[MAT102](https://drive.google.com/file/d/1c8mdtBppzMMelqZG-iFq56V4yG6FeP9V/view?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Textbook 📖</summary>
-
-[Calculus - Anton Bivens Davis - 10th Edition](https://drive.google.com/file/d/1_wAUFYtTreiUC4gfAvw-dJzMZX3leLfJ/view?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Capsule 💊</summary>
-
-[VCD Short notes](https://drive.google.com/drive/folders/1u-q4vt4s_kv0SKyYB0Dlbo1LHRhRNZ7V?usp=drive_link)👈
+[GAMAT201 Syllabus](https://drive.google.com/file/d/1M6Yf1fDWpc_AQ8HySZ7AUf-SsP3yEkTk/view?usp=drive_link)👈
 
 </details>
 
@@ -35,15 +19,23 @@ coverY: 0
 
 <summary>Lecture Notes 📒</summary>
 
-[VCD Notes](https://drive.google.com/drive/folders/1ZCFIOiVISjIFSEFu-pexkm1tJAVsjOBt?usp=drive_link)👈
+[GAMAT201 Notes](https://drive.google.com/drive/folders/1H5zwwopozalho2Z-ffGEv9tVNLIkmnCz?usp=drive_link)👈
 
 </details>
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Textbook 📖</summary>
 
-[VCD Series Question Papers](https://drive.google.com/drive/folders/1lN6Mg9rcjXed6wKko8akzK0IwxuTb5ly?usp=drive_link)👈
+[GAMAT201 TextBook](https://drive.google.com/drive/folders/1822Qvj70R-FzFMr2xocbD6adKfYRJd28?usp=drive_link)👈
+
+</details>
+
+<details>
+
+<summary>Series QPs 📃</summary>
+
+[GAMAT201 Series Question Papers](https://drive.google.com/drive/folders/1z_48aJ0FGbgKgIny5B-13MC2WrUPx7ZQ?usp=drive_link)👈
 
 </details>
 
@@ -51,14 +43,6 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[VCD University Question Papers](https://drive.google.com/drive/folders/1Pqh-4mKYAD1wZAdkdzQD-7YTUqcAjrkC?usp=drive_link)👈
-
-</details>
-
-<details>
-
-<summary>Sample Questions 💯</summary>
-
-[VCD Extra Questions](https://drive.google.com/file/d/1gZiem_L9gwUPwyrVoWGa2PbNuABkEg0u/view?usp=drive_link)👈
+[GAMAT201 University Question Papers](https://drive.google.com/drive/folders/1DW49MsbWCwy7XtyLiGoVr1uY7AVgKKAl?usp=drive_link)👈
 
 </details>

@@ -25,9 +25,9 @@ coverY: 0
 
 <details>
 
-<summary>Series QPs from different colleges 📃</summary>
+<summary>Series QPs 📃</summary>
 
-[EG Series Question Papers](https://drive.google.com/drive/folders/1qeDdmDy1u5iDiw0f8gXXNPHSYUPHhv0V?usp=drive_link)👈
+[GMEST103 Series Question Papers](https://drive.google.com/drive/folders/17Pc66-awqocDLvTzZOOoPZ_jX5-Acd3S?usp=drive_link)👈
 
 </details>
 
@@ -35,7 +35,7 @@ coverY: 0
 
 <summary>University QPs 📑</summary>
 
-[EG University Question Papers](https://drive.google.com/drive/folders/16C587xKGdP2HjYn8Q-ztxPSpOoNCIf0q?usp=drive_link)👈
+[GMEST103 University Question Papers](https://drive.google.com/drive/folders/1GbdZu3X_8xZju71lfG2oAyI4OtAZOEVz?usp=drive_link)👈
 
 </details>
 
@@ -43,6 +43,6 @@ coverY: 0
 
 <summary>Sample Questions 💯</summary>
 
-[EG Extra Questions](https://drive.google.com/drive/folders/18fIHnjgnmnLh6pucEvcYPffij2CEZfUX?usp=drive_link)👈
+[GMEST103 Extra Questions](https://drive.google.com/drive/folders/18fIHnjgnmnLh6pucEvcYPffij2CEZfUX?usp=drive_link)👈
 
 </details>
