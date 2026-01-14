@@ -14,32 +14,12 @@ coverY: 0
 **Make sure to click the&#x20;**<mark style="color:yellow;">**drop-down arrow**</mark>**&#x20;itself to access the content!**
 {% endhint %}
 
-{% content-ref url="semesters-2019-syllabus/s1-and-s2/" %}
-[s1-and-s2](semesters-2019-syllabus/s1-and-s2/)
+{% content-ref url="/broken/pages/cxXS7COrfZEFL2CGAzDJ" %}
+[Broken link](/broken/pages/cxXS7COrfZEFL2CGAzDJ)
 {% endcontent-ref %}
 
-{% content-ref url="semesters-2019-syllabus/s3/" %}
-[s3](semesters-2019-syllabus/s3/)
-{% endcontent-ref %}
-
-{% content-ref url="semesters-2019-syllabus/s4/" %}
-[s4](semesters-2019-syllabus/s4/)
-{% endcontent-ref %}
-
-{% content-ref url="semesters-2019-syllabus/s5/" %}
-[s5](semesters-2019-syllabus/s5/)
-{% endcontent-ref %}
-
-{% content-ref url="semesters-2019-syllabus/s6/" %}
-[s6](semesters-2019-syllabus/s6/)
-{% endcontent-ref %}
-
-{% content-ref url="semesters-2019-syllabus/s7/" %}
-[s7](semesters-2019-syllabus/s7/)
-{% endcontent-ref %}
-
-{% content-ref url="semesters-2019-syllabus/s8.md" %}
-[s8.md](semesters-2019-syllabus/s8.md)
+{% content-ref url="/broken/pages/nNcp5fhFYjKAbZjf071L" %}
+[Broken link](/broken/pages/nNcp5fhFYjKAbZjf071L)
 {% endcontent-ref %}
 
 ## Contribution Guidelines
