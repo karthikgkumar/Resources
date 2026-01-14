@@ -64,7 +64,13 @@
   * [CD Lab](semesters-2019-syllabus/s7/cd-lab.md)
   * [Seminar](semesters-2019-syllabus/s7/seminar.md)
   * [Project](semesters-2019-syllabus/s7/project.md)
-* [🎓 S8](semesters-2019-syllabus/s8.md)
+* [🎓 S8](semesters-2019-syllabus/s8/README.md)
+  * [DC](semesters-2019-syllabus/s8/dc.md)
+  * [PE3 - PP](semesters-2019-syllabus/s8/pe3-pp.md)
+  * [PE4 - CSA](semesters-2019-syllabus/s8/pe4-csa.md)
+  * [PE4 - DM](semesters-2019-syllabus/s8/pe4-dm.md)
+  * [PE5 - BT](semesters-2019-syllabus/s8/pe5-bt.md)
+  * [CCV](semesters-2019-syllabus/s8/ccv.md)
 
 ## Semesters - 2024 Syllabus
 
