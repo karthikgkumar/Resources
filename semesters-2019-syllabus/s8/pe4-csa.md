@@ -39,3 +39,19 @@ layout:
 [CSA Textbook](https://drive.google.com/file/d/1cK6EsN-w0otczkrU9ISQwqdXFoih1DUd/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[CSA Notes](https://drive.google.com/drive/folders/13BfRGaIgn7wgb8NN7G4eLssBJQI6IE0l?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[CSA PYQs](https://drive.google.com/drive/folders/1gCST5unlECc1kV3ZULJmsHjtkWJUa8Ag?usp=drive_link) 👈
+
+</details>

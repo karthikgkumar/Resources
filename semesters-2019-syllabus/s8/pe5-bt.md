@@ -41,3 +41,19 @@ layout:
 [BT Textbook](https://drive.google.com/file/d/1XjFMoBzKYNAh23Nh2Feg1rPhBS5Ki1kZ/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[BT Notes](https://drive.google.com/drive/folders/1zwI2syuegq5twrXIyISeX7WWvj-bTU6I?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[BT PYQs](https://drive.google.com/drive/folders/19L0agKvuGN4lugDuNCayK-BQn9PZCHg6?usp=drive_link) 👈
+
+</details>

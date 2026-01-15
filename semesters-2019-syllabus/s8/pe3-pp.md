@@ -40,3 +40,19 @@ layout:
 [PP Textbooks](https://drive.google.com/drive/folders/1F7Ezbppy6Ys4yhWq6mjylpKZxFQnYKiC?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[PP Notes](https://drive.google.com/drive/folders/1jH1DtXHINYk-Q-IhTR7DYCPooI7yGtoN?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[PP PYQs](https://drive.google.com/drive/folders/1Ky-7aEFxE-0YK6H20s5PK_EjiaBvjhLy?usp=drive_link) 👈
+
+</details>

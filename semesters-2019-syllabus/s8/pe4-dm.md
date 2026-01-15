@@ -32,3 +32,11 @@ layout:
 [CST466](https://drive.google.com/file/d/19AGtZSYg03crSnku_XEe-I-NjhEhNvaY/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Notes 📒</summary>
+
+[DM Notes](https://drive.google.com/drive/folders/1A9K-aNNWUwPaopYs2F2GPgO5xqfyiBx-?usp=drive_link) 👈
+
+</details>
