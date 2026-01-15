@@ -33,3 +33,11 @@ layout:
 [CST428](https://drive.google.com/file/d/1NId5dP6pdlAz7too3Xn38UJFBPMV4TjY/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[BT Textbook](https://drive.google.com/file/d/1XjFMoBzKYNAh23Nh2Feg1rPhBS5Ki1kZ/view?usp=drive_link) 👈
+
+</details>

@@ -31,3 +31,11 @@ layout:
 [CST426](https://drive.google.com/file/d/1BtyFXD5MCFtlsDs5-CM_9PDIBh41-JHK/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[CSA Textbook](https://drive.google.com/file/d/1cK6EsN-w0otczkrU9ISQwqdXFoih1DUd/view?usp=drive_link) 👈
+
+</details>

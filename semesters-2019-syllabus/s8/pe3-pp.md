@@ -32,3 +32,11 @@ layout:
 [CST424](https://drive.google.com/file/d/18hgRC_GzcFKwzDCmB90bq_6Hdt5Uyk9F/view?usp=drive_link) 👈
 
 </details>
+
+<details>
+
+<summary>Textbook 📖</summary>
+
+[PP Textbooks](https://drive.google.com/drive/folders/1F7Ezbppy6Ys4yhWq6mjylpKZxFQnYKiC?usp=drive_link) 👈
+
+</details>
