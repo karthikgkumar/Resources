@@ -1,7 +1,5 @@
 # 🎓 S8
 
-## Will be updated soon!⚒️
-
 {% content-ref url="dc.md" %}
 [dc.md](dc.md)
 {% endcontent-ref %}
