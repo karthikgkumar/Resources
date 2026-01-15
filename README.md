@@ -4,14 +4,10 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Welcome!
+# 👋 Welcome
 
 {% hint style="info" %}
 **About this Site: This is developed to help KTU Students find all resources in one place.**
-{% endhint %}
-
-{% hint style="warning" %}
-**Make sure to click the&#x20;**<mark style="color:yellow;">**drop-down arrow**</mark>**&#x20;itself to access the content!**
 {% endhint %}
 
 {% content-ref url="/broken/pages/cxXS7COrfZEFL2CGAzDJ" %}
