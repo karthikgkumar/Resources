@@ -25,3 +25,10 @@ layout:
 
 # PE3 - PP
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST424](https://drive.google.com/file/d/18hgRC_GzcFKwzDCmB90bq_6Hdt5Uyk9F/view?usp=drive_link) 👈
+
+</details>

@@ -25,3 +25,10 @@ layout:
 
 # DC
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST402](https://drive.google.com/file/d/1OkkoyrOu0WZuvRe53VYdjjTNtf5NmDnN/view?usp=drive_link) 👈
+
+</details>

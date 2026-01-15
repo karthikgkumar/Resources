@@ -25,3 +25,10 @@ layout:
 
 # PE4 - DM
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST466](https://drive.google.com/file/d/19AGtZSYg03crSnku_XEe-I-NjhEhNvaY/view?usp=drive_link) 👈
+
+</details>

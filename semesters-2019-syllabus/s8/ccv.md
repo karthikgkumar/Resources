@@ -25,3 +25,10 @@ layout:
 
 # CCV
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST404](https://drive.google.com/file/d/1QNj_CCWwGxEEWJewbawcv02qeZ9i2ymQ/view?usp=drive_link) 👈
+
+</details>

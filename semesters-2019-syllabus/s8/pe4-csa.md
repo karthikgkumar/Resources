@@ -24,3 +24,10 @@ layout:
 
 # PE4 - CSA
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST426](https://drive.google.com/file/d/1BtyFXD5MCFtlsDs5-CM_9PDIBh41-JHK/view?usp=drive_link) 👈
+
+</details>

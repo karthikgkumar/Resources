@@ -26,3 +26,10 @@ layout:
 
 # PE5 - BT
 
+<details>
+
+<summary>Syllabus 📚 </summary>
+
+[CST428](https://drive.google.com/file/d/1NId5dP6pdlAz7too3Xn38UJFBPMV4TjY/view?usp=drive_link) 👈
+
+</details>
