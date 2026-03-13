@@ -5,23 +5,6 @@ cover: >-
   https://images.unsplash.com/photo-1639322537231-2f206e06af84?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxibG9ja2NoYWlufGVufDB8fHx8MTc2ODM1NDg4OXww&ixlib=rb-4.1.0&q=85
 coverY: 0
 coverHeight: 231
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # PE5 - BT
@@ -47,6 +30,14 @@ layout:
 <summary>Notes 📒</summary>
 
 [BT Notes](https://drive.google.com/drive/folders/1zwI2syuegq5twrXIyISeX7WWvj-bTU6I?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Series Question Papers 📃</summary>
+
+[BT Series QPs](https://drive.google.com/drive/folders/119-J-xCuc0nuzHhapYfSHzgMmf5ehLz7?usp=drive_link) 👈
 
 </details>
 

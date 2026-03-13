@@ -3,23 +3,6 @@ description: CST426 - CLIENT SERVER ARCHITECTURE
 icon: server
 cover: ../../.gitbook/assets/csa.png
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # PE4 - CSA
@@ -45,6 +28,14 @@ layout:
 <summary>Notes 📒</summary>
 
 [CSA Notes](https://drive.google.com/drive/folders/13BfRGaIgn7wgb8NN7G4eLssBJQI6IE0l?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>Series Question Papers 📃</summary>
+
+[CSA Series QPs](https://drive.google.com/drive/folders/167AxedTE9WNLKJ-25FZfB99zRQu5qLK2?usp=drive_link) 👈
 
 </details>
 
