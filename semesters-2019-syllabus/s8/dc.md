@@ -26,6 +26,14 @@ coverY: 0
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[DC Short Notes](https://drive.google.com/drive/folders/1_29OgyM_QulkVl0g8Cl5V1U8XHM4WYGg?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [DC Notes](https://drive.google.com/drive/folders/1hsaQtFUy8Rd4TylXOWCeplXl7aT1tncQ?usp=drive_link) 👈
