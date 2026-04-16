@@ -42,6 +42,14 @@ coverY: 0
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Playlist to Distributed Computing \[Hindi\] 🔥🔥 - Perfect Computer Engineer](https://youtube.com/playlist?list=PLPIwNooIb9vhYroMrNpoBYiBUFzTwEZot\&si=I3Ky1cPBhDxT3jFy) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [DC Series QPs](https://drive.google.com/drive/folders/1gBuVtXfh18VeTtRtkxG3L5LctB5xJftv?usp=drive_link) 👈
