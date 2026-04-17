@@ -46,6 +46,8 @@ coverY: 0
 
 [Playlist to Distributed Computing \[Hindi\] 🔥🔥 - Perfect Computer Engineer](https://youtube.com/playlist?list=PLPIwNooIb9vhYroMrNpoBYiBUFzTwEZot\&si=I3Ky1cPBhDxT3jFy) 👈
 
+[Chandy Lamport Global Snapshot Algorithm - JANGO](https://youtu.be/msdXzAV-Rzw?si=yWfVdRvHVK-1t2Ue) 👈
+
 </details>
 
 <details>
