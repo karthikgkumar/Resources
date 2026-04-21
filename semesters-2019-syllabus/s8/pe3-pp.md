@@ -26,6 +26,14 @@ coverY: 0
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[PP Short Notes](https://drive.google.com/drive/folders/1s9cIcefDUghoUpvnQ5i5evnCIxJd0O-D?usp=sharing) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [PP Notes](https://drive.google.com/drive/folders/1jH1DtXHINYk-Q-IhTR7DYCPooI7yGtoN?usp=drive_link) 👈
