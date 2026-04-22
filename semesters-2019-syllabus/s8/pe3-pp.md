@@ -46,6 +46,8 @@ coverY: 0
 
 [Introduction to Scheme - Mark Lewis](https://youtu.be/AqBxU-Zmx00?si=aP49dWmqRdrxhqBN) 👈
 
+[Prolog Programming Basics, Facts, Rules and Queries | Syntax, Examples and Code | Implementation - Programming Epitome ](https://youtu.be/4F2FLNQ6yms?si=u6d6fwSBpN3pV0Bz)👈
+
 </details>
 
 <details>
