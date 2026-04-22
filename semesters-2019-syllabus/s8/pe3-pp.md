@@ -42,6 +42,14 @@ coverY: 0
 
 <details>
 
+<summary>Tutorials 🧑‍🏫</summary>
+
+[Introduction to Scheme - Mark Lewis](https://youtu.be/AqBxU-Zmx00?si=aP49dWmqRdrxhqBN) 👈
+
+</details>
+
+<details>
+
 <summary>Series Question Papers 📃</summary>
 
 [PP Series QPs](https://drive.google.com/drive/folders/1KZQlDK-uYra-xetHwwp2qX9hGDzI6G4I?usp=drive_link) 👈
