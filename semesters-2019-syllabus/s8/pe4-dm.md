@@ -4,23 +4,6 @@ icon: hexagon-image
 cover: >-
   https://images.unsplash.com/photo-1488229297570-58520851e868?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxkYXRhJTIwbWluaW5nfGVufDB8fHx8MTc2ODQwMTYzMnww&ixlib=rb-4.1.0&q=85
 coverY: 0
-layout:
-  width: default
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
 ---
 
 # PE4 - DM
@@ -38,5 +21,13 @@ layout:
 <summary>Notes 📒</summary>
 
 [DM Notes](https://drive.google.com/drive/folders/1A9K-aNNWUwPaopYs2F2GPgO5xqfyiBx-?usp=drive_link) 👈
+
+</details>
+
+<details>
+
+<summary>University Question Papers 📄</summary>
+
+[DM PYQs](https://drive.google.com/drive/folders/1X8Oa3cQsDLLSL09WkfwCvU-BZQVFM46D?usp=drive_link) 👈
 
 </details>
