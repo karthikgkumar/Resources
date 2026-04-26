@@ -25,6 +25,14 @@ coverY: 0
 
 <details>
 
+<summary>Capsule 💊</summary>
+
+[CSA Short Notes](https://drive.google.com/drive/folders/1I8Q5Qd8JXdwxrNqNdOH_j8R8BAfiOfG0?usp=drive_link) 👈
+
+</details>
+
+<details>
+
 <summary>Notes 📒</summary>
 
 [CSA Notes](https://drive.google.com/drive/folders/13BfRGaIgn7wgb8NN7G4eLssBJQI6IE0l?usp=drive_link) 👈
